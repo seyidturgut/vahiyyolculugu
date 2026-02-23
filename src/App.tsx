@@ -7,6 +7,7 @@ import { useAppStore } from './store/useAppStore';
 import quranData from './data/quranChronology.json';
 import BottomSheet from './components/ui/BottomSheet';
 import AtlasScene from './components/webgl/AtlasScene';
+import LoadingScreen from './components/ui/LoadingScreen';
 
 const T = {
   TR: {
@@ -345,5 +346,10 @@ const AppContent = () => {
 };
 
 export default function App() {
-  return <Router><AppContent /></Router>;
+  return (
+    <Router>
+      <LoadingScreen />
+      <AppContent />
+    </Router>
+  );
 }
