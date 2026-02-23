@@ -1,7 +1,7 @@
 import React from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion } from 'framer-motion';
 import { useAppStore } from '../../store/useAppStore';
-import { Flame, Star, Zap } from 'lucide-react';
+import { Flame, Zap } from 'lucide-react';
 
 const GamificationPanel: React.FC<{ compact?: boolean }> = ({ compact = false }) => {
     const { xp, streak, badges, unlockedNodes, language } = useAppStore();
@@ -103,8 +103,8 @@ const GamificationPanel: React.FC<{ compact?: boolean }> = ({ compact = false })
                             key={b.id}
                             title={language === 'TR' ? b.nameTr : b.name}
                             className={`flex flex-col items-center gap-1 p-2 rounded-xl border transition-all ${b.earned
-                                    ? 'bg-amber-200/10 border-amber-200/25 opacity-100'
-                                    : 'bg-white/3 border-white/8 opacity-30 grayscale'
+                                ? 'bg-amber-200/10 border-amber-200/25 opacity-100'
+                                : 'bg-white/3 border-white/8 opacity-30 grayscale'
                                 }`}
                         >
                             <span className="text-xl">{b.icon}</span>

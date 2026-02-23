@@ -1,5 +1,3 @@
-import React from 'react';
-import { motion } from 'framer-motion';
 import { Globe } from 'lucide-react';
 import { useAppStore } from '../../store/useAppStore';
 

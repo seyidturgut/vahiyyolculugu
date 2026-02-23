@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-route
 import { motion } from 'framer-motion';
 import { ChevronRight, Sparkles, MapPin, BookOpen } from 'lucide-react';
 import Layout from './components/layout/Layout';
-import { useEffect, useState, useMemo } from 'react';
+import { useState, useMemo } from 'react';
 import { useAppStore } from './store/useAppStore';
 import quranData from './data/quranChronology.json';
 import BottomSheet from './components/ui/BottomSheet';

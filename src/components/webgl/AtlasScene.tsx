@@ -1,6 +1,6 @@
 import { useMemo, useRef, useState, useEffect } from 'react';
 import { Canvas, useFrame, useThree } from '@react-three/fiber';
-import { Stars, PerspectiveCamera, OrbitControls, Html, Float } from '@react-three/drei';
+import { Stars, OrbitControls, Html } from '@react-three/drei';
 import * as THREE from 'three';
 import { Play, Pause, Plus, Minus, Compass } from 'lucide-react';
 import { useAppStore } from '../../store/useAppStore';
