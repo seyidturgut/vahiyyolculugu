@@ -1,0 +1,4676 @@
+[
+  {
+    "id": 1,
+    "surahNumber": 96,
+    "surahName": {
+      "ar": "العلق",
+      "en": "Al-Alaq",
+      "tr": "Alak"
+    },
+    "period": "Mekke",
+    "year": "610 M.",
+    "revelationOrder": 1,
+    "verses": "96:1-5",
+    "event": {
+      "en": "First revelation in Cave of Hira – command to read",
+      "tr": "Peygamberimize (s.a.s) Hira Mağarası'nda gelen ilk vahiy: 'Oku!'"
+    },
+    "context": {
+      "en": "First revelation in Cave of Hira – command to read",
+      "tr": "Peygamberimize (s.a.s) Hira Mağarası'nda gelen ilk vahiy: 'Oku!'"
+    },
+    "coordinates": [
+      2,
+      4,
+      2
+    ],
+    "location": {
+      "name": {
+        "tr": "Hira Mağarası",
+        "en": "Cave of Hira"
+      },
+      "coords": [
+        2,
+        4,
+        2
+      ]
+    },
+    "tafsir": {
+      "tr": "İnsanın Allah tarafından yaratıldığını ve O'nun adıyla okumanın emredildiğini bildirir. İlim ve kalem üzerine vurgu yapar.",
+      "en": "Proclaims that man was created by God and commands reading in His name. Emphasizes knowledge and the pen."
+    }
+  },
+  {
+    "id": 2,
+    "surahNumber": 68,
+    "surahName": {
+      "ar": "القلم",
+      "en": "Al-Qalam",
+      "tr": "Kalem"
+    },
+    "period": "Mekke",
+    "year": "610 M.",
+    "revelationOrder": 2,
+    "verses": "68:1-52",
+    "event": {
+      "en": "Prophet's character defended against Quraysh mockery",
+      "tr": "Kureyş'in hakaretlerine karşı Peygamberimizin ahlakı savunuldu"
+    },
+    "context": {
+      "en": "Prophet's character defended against Quraysh mockery",
+      "tr": "Kureyş'in hakaretlerine karşı Peygamberimizin ahlakı savunuldu"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Ahlak ve karakter üzerine inen bu sure, Peygamber'in üstün ahlakını ve inançsızların tutumunu ele alır.",
+      "en": "Revealed about character, this surah addresses the Prophet's excellent morality and the stance of disbelievers."
+    }
+  },
+  {
+    "id": 3,
+    "surahNumber": 73,
+    "surahName": {
+      "ar": "المزمل",
+      "en": "Al-Muzzammil",
+      "tr": "Müzzemmil"
+    },
+    "period": "Mekke",
+    "year": "610 M.",
+    "revelationOrder": 3,
+    "verses": "73:1-20",
+    "event": {
+      "en": "Command for night prayer to strengthen the Prophet",
+      "tr": "Zor dönemde gece ibadetiyle manevi güç inşası emredildi"
+    },
+    "context": {
+      "en": "Command for night prayer to strengthen the Prophet",
+      "tr": "Zor dönemde gece ibadetiyle manevi güç inşası emredildi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Peygamber'e gecenin ibadetini emreder; sabır ve tevekkülü öğütler.",
+      "en": "Commands the Prophet to worship at night; teaches patience and trust in God."
+    }
+  },
+  {
+    "id": 4,
+    "surahNumber": 74,
+    "surahName": {
+      "ar": "المدثر",
+      "en": "Al-Muddaththir",
+      "tr": "Müddessir"
+    },
+    "period": "Mekke",
+    "year": "610 M.",
+    "revelationOrder": 4,
+    "verses": "74:1-56",
+    "event": {
+      "en": "Command to arise and warn the people",
+      "tr": "Kamuoyunu uyarma emri: 'Kalk ve uyar!'"
+    },
+    "context": {
+      "en": "Command to arise and warn the people",
+      "tr": "Kamuoyunu uyarma emri: 'Kalk ve uyar!'"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Peygamber'e insanları uyarma görevini verir; her insanın ameline karşılık alacağını bildirir.",
+      "en": "Assigns the Prophet the duty to warn people; states that everyone will receive what they have earned."
+    }
+  },
+  {
+    "id": 5,
+    "surahNumber": 1,
+    "surahName": {
+      "ar": "الفاتحة",
+      "en": "Al-Fatiha",
+      "tr": "Fatiha"
+    },
+    "period": "Mekke",
+    "year": "611 M.",
+    "revelationOrder": 5,
+    "verses": "1:1-7",
+    "event": {
+      "en": "Opening surah – foundation of Islamic prayer",
+      "tr": "Namazın temeli; Kuran'ın özeti"
+    },
+    "context": {
+      "en": "Opening surah – foundation of Islamic prayer",
+      "tr": "Namazın temeli; Kuran'ın özeti"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kur'an'ın özeti sayılır; Allah'a hamd, yalnızca O'na ibadet ve doğru yola kılavuzluk için dua içerir.",
+      "en": "Considered the essence of the Quran; contains praise of God, worship of Him alone, and prayer for guidance."
+    }
+  },
+  {
+    "id": 6,
+    "surahNumber": 111,
+    "surahName": {
+      "ar": "المسد",
+      "en": "Al-Masad",
+      "tr": "Tebbet"
+    },
+    "period": "Mekke",
+    "year": "612 M.",
+    "revelationOrder": 6,
+    "verses": "111:1-5",
+    "event": {
+      "en": "Abu Lahab condemned for opposing Islam",
+      "tr": "Amcası Ebu Leheb'in İslam'a düşmanlığı üzerine indi"
+    },
+    "context": {
+      "en": "Abu Lahab condemned for opposing Islam",
+      "tr": "Amcası Ebu Leheb'in İslam'a düşmanlığı üzerine indi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Ebu Leheb ve karısının Peygambere düşmanlığı yüzünden yok olacağını bildirir.",
+      "en": "Declares that Abu Lahab and his wife will perish due to their enmity toward the Prophet."
+    }
+  },
+  {
+    "id": 7,
+    "surahNumber": 81,
+    "surahName": {
+      "ar": "التكوير",
+      "en": "At-Takwir",
+      "tr": "Tekvir"
+    },
+    "period": "Mekke",
+    "year": "612 M.",
+    "revelationOrder": 7,
+    "verses": "81:1-29",
+    "event": {
+      "en": "Vivid description of the Day of Judgment",
+      "tr": "Kıyamet gününün dramatik tasviri"
+    },
+    "context": {
+      "en": "Vivid description of the Day of Judgment",
+      "tr": "Kıyamet gününün dramatik tasviri"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kıyamet gününü ve yıldızların söneceğini, göğün yarılacağını anlatır.",
+      "en": "Describes the Day of Judgment: stars will be extinguished and the sky will split."
+    }
+  },
+  {
+    "id": 8,
+    "surahNumber": 87,
+    "surahName": {
+      "ar": "الأعلى",
+      "en": "Al-A'la",
+      "tr": "A'la"
+    },
+    "period": "Mekke",
+    "year": "612 M.",
+    "revelationOrder": 8,
+    "verses": "87:1-19",
+    "event": {
+      "en": "Glorify your Lord – ease in remembrance",
+      "tr": "'Rabbinin adını tesbih et' – hatırlamanın kolaylaştırılması"
+    },
+    "context": {
+      "en": "Glorify your Lord – ease in remembrance",
+      "tr": "'Rabbinin adını tesbih et' – hatırlamanın kolaylaştırılması"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "İnsanı yüksek ahlaka davet eder; Allah'ın adını tesbih etmeyi emreder.",
+      "en": "Invites man to high morality; commands glorification of God's name."
+    }
+  },
+  {
+    "id": 9,
+    "surahNumber": 92,
+    "surahName": {
+      "ar": "الليل",
+      "en": "Al-Layl",
+      "tr": "Leyl"
+    },
+    "period": "Mekke",
+    "year": "612 M.",
+    "revelationOrder": 9,
+    "verses": "92:1-21",
+    "event": {
+      "en": "Night oath – reward for charity and piety",
+      "tr": "Gece yeminiyle cömertlik ve takvanın mükafatı"
+    },
+    "context": {
+      "en": "Night oath – reward for charity and piety",
+      "tr": "Gece yeminiyle cömertlik ve takvanın mükafatı"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Gecenin ve gündüzün farklı işlevleri üzerinden cömertlik ile cimriliğin sonuçlarını anlatır.",
+      "en": "Through the contrast of night and day, describes the consequences of generosity and miserliness."
+    }
+  },
+  {
+    "id": 10,
+    "surahNumber": 89,
+    "surahName": {
+      "ar": "الفجر",
+      "en": "Al-Fajr",
+      "tr": "Fecr"
+    },
+    "period": "Mekke",
+    "year": "613 M.",
+    "revelationOrder": 10,
+    "verses": "89:1-30",
+    "event": {
+      "en": "Dawn oath – fate of Ad, Thamud, Pharaoh",
+      "tr": "Ad, Semud ve Firavun'un helaki; adil şahit Allah"
+    },
+    "context": {
+      "en": "Dawn oath – fate of Ad, Thamud, Pharaoh",
+      "tr": "Ad, Semud ve Firavun'un helaki; adil şahit Allah"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kıyamet gününün dehşetini ve insan ruhunun hesaba çekileceğini anlatır.",
+      "en": "Describes the awe of the Day of Judgment and the soul's reckoning."
+    }
+  },
+  {
+    "id": 11,
+    "surahNumber": 93,
+    "surahName": {
+      "ar": "الضحى",
+      "en": "Ad-Duha",
+      "tr": "Duha"
+    },
+    "period": "Mekke",
+    "year": "613 M.",
+    "revelationOrder": 11,
+    "verses": "93:1-11",
+    "event": {
+      "en": "Revelation paused – God reassures the Prophet",
+      "tr": "Vahyin kesilmesi üzerine Allah'ın Peygamberi tesellisi"
+    },
+    "context": {
+      "en": "Revelation paused – God reassures the Prophet",
+      "tr": "Vahyin kesilmesi üzerine Allah'ın Peygamberi tesellisi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Sabah aydınlığı ve geceye yemin ederek Peygamber'i teselli eder; Allah'ın nimetlerini saymayı emreder.",
+      "en": "Comforts the Prophet by the morning light and the night; commands counting God's blessings."
+    }
+  },
+  {
+    "id": 12,
+    "surahNumber": 94,
+    "surahName": {
+      "ar": "الشرح",
+      "en": "Al-Inshirah",
+      "tr": "İnşirah"
+    },
+    "period": "Mekke",
+    "year": "613 M.",
+    "revelationOrder": 12,
+    "verses": "94:1-8",
+    "event": {
+      "en": "After hardship comes ease – twice promised",
+      "tr": "Her güçlükle birlikte kolaylık vardır – iki kez vaat"
+    },
+    "context": {
+      "en": "After hardship comes ease – twice promised",
+      "tr": "Her güçlükle birlikte kolaylık vardır – iki kez vaat"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Peygamber'in sıkıntısının giderildiğini bildirir; zorlukla birlikte kolaylık olduğunu vurgular.",
+      "en": "Declares the Prophet's distress relieved; emphasizes that with hardship comes ease."
+    }
+  },
+  {
+    "id": 13,
+    "surahNumber": 103,
+    "surahName": {
+      "ar": "العصر",
+      "en": "Al-Asr",
+      "tr": "Asr"
+    },
+    "period": "Mekke",
+    "year": "613 M.",
+    "revelationOrder": 13,
+    "verses": "103:1-3",
+    "event": {
+      "en": "Time oath – humanity in loss except believers",
+      "tr": "Zaman yemini: iman-amel-sabır olmadan insan zarardadır"
+    },
+    "context": {
+      "en": "Time oath – humanity in loss except believers",
+      "tr": "Zaman yemini: iman-amel-sabır olmadan insan zarardadır"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Zamana yemin ederek insanın hüsranda olduğunu; iman, amel, hak ve sabırla kurtuluşa ereceğini bildirir.",
+      "en": "Swearing by time, states man is in loss; salvation is through faith, good deeds, truth and patience."
+    }
+  },
+  {
+    "id": 14,
+    "surahNumber": 100,
+    "surahName": {
+      "ar": "العاديات",
+      "en": "Al-Adiyat",
+      "tr": "Adiyat"
+    },
+    "period": "Mekke",
+    "year": "613 M.",
+    "revelationOrder": 14,
+    "verses": "100:1-11",
+    "event": {
+      "en": "War horses imagery – human ingratitude",
+      "tr": "Savaş atlarıyla yeminden insan nankörlüğüne geçiş"
+    },
+    "context": {
+      "en": "War horses imagery – human ingratitude",
+      "tr": "Savaş atlarıyla yeminden insan nankörlüğüne geçiş"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Dünya hırsının, koşturup duran insanı nasıl oyaladığını ve hesap gününü hatırlatır.",
+      "en": "Reminds how worldly greed distracts restless man, and warns of the day of reckoning."
+    }
+  },
+  {
+    "id": 15,
+    "surahNumber": 108,
+    "surahName": {
+      "ar": "الكوثر",
+      "en": "Al-Kawthar",
+      "tr": "Kevser"
+    },
+    "period": "Mekke",
+    "year": "613 M.",
+    "revelationOrder": 15,
+    "verses": "108:1-3",
+    "event": {
+      "en": "River of abundance given to the Prophet",
+      "tr": "Peygambere Kevser havuzu müjdelendi; düşmanı soyu kesik"
+    },
+    "context": {
+      "en": "River of abundance given to the Prophet",
+      "tr": "Peygambere Kevser havuzu müjdelendi; düşmanı soyu kesik"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Peygamber'e Kevser nehrini müjdeler; düşmanlarının asıl yoksul ve ebtersiz olanlar olduğunu bildirir.",
+      "en": "Gives the Prophet glad tidings of Al-Kawthar; states his enemies are truly the ones cut off."
+    }
+  },
+  {
+    "id": 16,
+    "surahNumber": 102,
+    "surahName": {
+      "ar": "التكاثر",
+      "en": "At-Takathur",
+      "tr": "Tekasür"
+    },
+    "period": "Mekke",
+    "year": "614 M.",
+    "revelationOrder": 16,
+    "verses": "102:1-8",
+    "event": {
+      "en": "Warning against competing in worldly wealth",
+      "tr": "Dünya malı yarışına karşı uyarı: kabre kadar sürsün mu?"
+    },
+    "context": {
+      "en": "Warning against competing in worldly wealth",
+      "tr": "Dünya malı yarışına karşı uyarı: kabre kadar sürsün mu?"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Dünyalık ile övünmenin insanı nasıl oyaladığını; kabirleri ziyarete kadar gaflet içinde yaşandığını anlatır.",
+      "en": "Describes how rivalry in worldly things distracts man; he lives in heedlessness until he visits the graves."
+    }
+  },
+  {
+    "id": 17,
+    "surahNumber": 107,
+    "surahName": {
+      "ar": "الماعون",
+      "en": "Al-Ma'un",
+      "tr": "Maun"
+    },
+    "period": "Mekke",
+    "year": "614 M.",
+    "revelationOrder": 17,
+    "verses": "107:1-7",
+    "event": {
+      "en": "Those who deny judgment neglect prayer and charity",
+      "tr": "Dini yalanlayanlar: yetimi iter, namazı savsaklar"
+    },
+    "context": {
+      "en": "Those who deny judgment neglect prayer and charity",
+      "tr": "Dini yalanlayanlar: yetimi iter, namazı savsaklar"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Dini yalanlayanı tasvir eder: yetimi kovan, yoksulu doyurmayan kişidir.",
+      "en": "Portrays the one who denies the faith: one who drives away the orphan and does not feed the poor."
+    }
+  },
+  {
+    "id": 18,
+    "surahNumber": 109,
+    "surahName": {
+      "ar": "الكافرون",
+      "en": "Al-Kafiroon",
+      "tr": "Kafiroon"
+    },
+    "period": "Mekke",
+    "year": "614 M.",
+    "revelationOrder": 18,
+    "verses": "109:1-6",
+    "event": {
+      "en": "Clear declaration: your religion for you, mine for me",
+      "tr": "Müşriklerin uzlaşı teklifine net cevap: 'Sizin dininiz size'"
+    },
+    "context": {
+      "en": "Clear declaration: your religion for you, mine for me",
+      "tr": "Müşriklerin uzlaşı teklifine net cevap: 'Sizin dininiz size'"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "İnkârcılara hitap eder; onların diniyle Müslümanların dininin birbirinden farklı olduğunu beyan eder.",
+      "en": "Addresses the disbelievers; declares that their religion and the Muslims' religion are distinct from one another."
+    }
+  },
+  {
+    "id": 19,
+    "surahNumber": 105,
+    "surahName": {
+      "ar": "الفيل",
+      "en": "Al-Fil",
+      "tr": "Feel"
+    },
+    "period": "Mekke",
+    "year": "614 M.",
+    "revelationOrder": 19,
+    "verses": "105:1-5",
+    "event": {
+      "en": "Abraha's elephant army destroyed at Mecca",
+      "tr": "Kabe'ye saldıran Ebehe ordusu kuşlarla helak edildi"
+    },
+    "context": {
+      "en": "Abraha's elephant army destroyed at Mecca",
+      "tr": "Kabe'ye saldıran Ebehe ordusu kuşlarla helak edildi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Mekke'yi fetheden fil ordusunun nasıl helak edildiğini anlatır.",
+      "en": "Describes how the army of elephants marching on Mecca was destroyed."
+    }
+  },
+  {
+    "id": 20,
+    "surahNumber": 113,
+    "surahName": {
+      "ar": "الفلق",
+      "en": "Al-Falaq",
+      "tr": "Felak"
+    },
+    "period": "Mekke",
+    "year": "614 M.",
+    "revelationOrder": 20,
+    "verses": "113:1-5",
+    "event": {
+      "en": "Seek refuge from external evils",
+      "tr": "Dış kötülüklere karşı Allah'a sığınma"
+    },
+    "context": {
+      "en": "Seek refuge from external evils",
+      "tr": "Dış kötülüklere karşı Allah'a sığınma"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Her türlü şerden Allah'a sığınmayı, özellikle sihir ve haset şerrinden korunmayı öğretir.",
+      "en": "Teaches seeking refuge in God from all evil, especially magic and envy."
+    }
+  },
+  {
+    "id": 21,
+    "surahNumber": 114,
+    "surahName": {
+      "ar": "الناس",
+      "en": "An-Nas",
+      "tr": "Nas"
+    },
+    "period": "Mekke",
+    "year": "614 M.",
+    "revelationOrder": 21,
+    "verses": "114:1-6",
+    "event": {
+      "en": "Seek refuge from inner whisperings",
+      "tr": "İç vesvesciye karşı Allah'a sığınma"
+    },
+    "context": {
+      "en": "Seek refuge from inner whisperings",
+      "tr": "İç vesvesciye karşı Allah'a sığınma"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "İnsanın şeytanı ve vesveselerinden Allah'a sığınmasını öğretir.",
+      "en": "Teaches man to seek refuge in God from Satan and evil whisperings."
+    }
+  },
+  {
+    "id": 22,
+    "surahNumber": 112,
+    "surahName": {
+      "ar": "الإخلاص",
+      "en": "Al-Ikhlas",
+      "tr": "İhlas"
+    },
+    "period": "Mekke",
+    "year": "615 M.",
+    "revelationOrder": 22,
+    "verses": "112:1-4",
+    "event": {
+      "en": "Pure monotheism – God is One, eternal",
+      "tr": "Tevhidin özü: Allah Ehaddir, Sameddir"
+    },
+    "context": {
+      "en": "Pure monotheism – God is One, eternal",
+      "tr": "Tevhidin özü: Allah Ehaddir, Sameddir"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Allah'ın tekliğini, doğurmadığını ve doğurulmadığını ifade eden tevhidin özüdür.",
+      "en": "The essence of monotheism: God is One, He neither begets nor is begotten."
+    }
+  },
+  {
+    "id": 23,
+    "surahNumber": 53,
+    "surahName": {
+      "ar": "النجم",
+      "en": "An-Najm",
+      "tr": "Necm"
+    },
+    "period": "Mekke",
+    "year": "615 M.",
+    "revelationOrder": 23,
+    "verses": "53:1-62",
+    "event": {
+      "en": "Prophet's Mi'raj vision described",
+      "tr": "Miraç'ta görülenler; putların gerçeği"
+    },
+    "context": {
+      "en": "Prophet's Mi'raj vision described",
+      "tr": "Miraç'ta görülenler; putların gerçeği"
+    },
+    "coordinates": [
+      0,
+      12,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Miraç (Gökyüzü)",
+        "en": "Al-Miraj (Heavens)"
+      },
+      "coords": [
+        0,
+        12,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "İsra ve Mi'rac sırasında görülen işaretleri anlatır; melekler ve Allah'ın yüceliğini tasvir eder.",
+      "en": "Describes signs seen during the Night Journey; depicts angels and the majesty of God."
+    }
+  },
+  {
+    "id": 24,
+    "surahNumber": 80,
+    "surahName": {
+      "ar": "عبس",
+      "en": "Abasa",
+      "tr": "Abese"
+    },
+    "period": "Mekke",
+    "year": "615 M.",
+    "revelationOrder": 24,
+    "verses": "80:1-42",
+    "event": {
+      "en": "Prophet frowned at blind man's interruption",
+      "tr": "Peygamberin kör ile meşgul olmaması üzerine inen vahiy"
+    },
+    "context": {
+      "en": "Prophet frowned at blind man's interruption",
+      "tr": "Peygamberin kör ile meşgul olmaması üzerine inen vahiy"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Peygamber'in kör sahabiyi görmezden gelmesini eleştirir; Kur'an'ın hatırlatıcı olduğunu vurgular.",
+      "en": "Admonishes the Prophet for ignoring the blind man; emphasizes the Quran as a reminder."
+    }
+  },
+  {
+    "id": 25,
+    "surahNumber": 97,
+    "surahName": {
+      "ar": "القدر",
+      "en": "Al-Qadr",
+      "tr": "Kadir"
+    },
+    "period": "Mekke",
+    "year": "615 M.",
+    "revelationOrder": 25,
+    "verses": "97:1-5",
+    "event": {
+      "en": "Night of Power – better than a thousand months",
+      "tr": "Kadir Gecesi'nin müjdesi: bin aydan hayırlı"
+    },
+    "context": {
+      "en": "Night of Power – better than a thousand months",
+      "tr": "Kadir Gecesi'nin müjdesi: bin aydan hayırlı"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kadir gecesinin bin aydan hayırlı olduğunu ve meleklerin indiğini bildirir.",
+      "en": "Declares the Night of Power is better than a thousand months and that angels descend."
+    }
+  },
+  {
+    "id": 26,
+    "surahNumber": 91,
+    "surahName": {
+      "ar": "الشمس",
+      "en": "Ash-Shams",
+      "tr": "Şems"
+    },
+    "period": "Mekke",
+    "year": "615 M.",
+    "revelationOrder": 26,
+    "verses": "91:1-15",
+    "event": {
+      "en": "Sun oath – purify your soul or perish",
+      "tr": "Güneş yemini: nefsi arındıranlar kurtuluşa erişti"
+    },
+    "context": {
+      "en": "Sun oath – purify your soul or perish",
+      "tr": "Güneş yemini: nefsi arındıranlar kurtuluşa erişti"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Güneş, ay ve insan ruhuna yemin ederek nefsini arındıranın kurtuluşa erdiğini bildirir.",
+      "en": "Swearing by sun, moon, and soul, declares that he who purifies his soul will prosper."
+    }
+  },
+  {
+    "id": 27,
+    "surahNumber": 85,
+    "surahName": {
+      "ar": "البروج",
+      "en": "Al-Buruj",
+      "tr": "Buruc"
+    },
+    "period": "Mekke",
+    "year": "615 M.",
+    "revelationOrder": 27,
+    "verses": "85:1-22",
+    "event": {
+      "en": "Companions of the Trench martyred for faith",
+      "tr": "İman yüzünden ateş çukuruna atılan mü'minler"
+    },
+    "context": {
+      "en": "Companions of the Trench martyred for faith",
+      "tr": "İman yüzünden ateş çukuruna atılan mü'minler"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Gökten aşağı yakın olan burçlara yemin ederek mü'minleri ateşe atan Ashab-ı Uhdud'u anlatır.",
+      "en": "Swearing by the constellations, tells of the People of the Trench who cast believers into fire."
+    }
+  },
+  {
+    "id": 28,
+    "surahNumber": 95,
+    "surahName": {
+      "ar": "التين",
+      "en": "At-Tin",
+      "tr": "Tin"
+    },
+    "period": "Mekke",
+    "year": "615 M.",
+    "revelationOrder": 28,
+    "verses": "95:1-8",
+    "event": {
+      "en": "Fig and olive oath – best human form",
+      "tr": "İncir-zeytin yemini: insan en güzel biçimde yaratıldı"
+    },
+    "context": {
+      "en": "Fig and olive oath – best human form",
+      "tr": "İncir-zeytin yemini: insan en güzel biçimde yaratıldı"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "İncir ve zeytine yemin ederek insanın en güzel biçimde yaratıldığını, sonra aşağıların en aşağısına düşürüldüğünü bildirir.",
+      "en": "Swearing by the fig and olive, states man was created in the best form, then reduced to the lowest of the low."
+    }
+  },
+  {
+    "id": 29,
+    "surahNumber": 106,
+    "surahName": {
+      "ar": "قريش",
+      "en": "Quraysh",
+      "tr": "Kureyş"
+    },
+    "period": "Mekke",
+    "year": "615 M.",
+    "revelationOrder": 29,
+    "verses": "106:1-4",
+    "event": {
+      "en": "Quraysh given trade routes – worship God",
+      "tr": "Kureyş'e verilen kış-yaz yolculuk nimeti; şükür emri"
+    },
+    "context": {
+      "en": "Quraysh given trade routes – worship God",
+      "tr": "Kureyş'e verilen kış-yaz yolculuk nimeti; şükür emri"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kureyş'e, Kâbe'ye hizmet sayesinde elde ettikleri yiyecek ve güvenlik nimetlerini hatırlatır.",
+      "en": "Reminds Quraysh of the blessings of food and security they gained through their service to the Kaaba."
+    }
+  },
+  {
+    "id": 30,
+    "surahNumber": 101,
+    "surahName": {
+      "ar": "القارعة",
+      "en": "Al-Qaria",
+      "tr": "Karia"
+    },
+    "period": "Mekke",
+    "year": "615 M.",
+    "revelationOrder": 30,
+    "verses": "101:1-11",
+    "event": {
+      "en": "The Calamity – scales of deeds",
+      "tr": "Çarpıcı saat: ameller tartılacak, ağır basan kurtuluşta"
+    },
+    "context": {
+      "en": "The Calamity – scales of deeds",
+      "tr": "Çarpıcı saat: ameller tartılacak, ağır basan kurtuluşta"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kıyamet gününde yaşanacakları ve günahkârların hesabını anlatır.",
+      "en": "Describes events of the Day of Judgment and the reckoning of sinners."
+    }
+  },
+  {
+    "id": 31,
+    "surahNumber": 75,
+    "surahName": {
+      "ar": "القيامة",
+      "en": "Al-Qiyama",
+      "tr": "Kıyamet"
+    },
+    "period": "Mekke",
+    "year": "616 M.",
+    "revelationOrder": 31,
+    "verses": "75:1-40",
+    "event": {
+      "en": "Human soul will testify against itself",
+      "tr": "Kıyamet günü nefs kendi aleyhine şahitlik edecek"
+    },
+    "context": {
+      "en": "Human soul will testify against itself",
+      "tr": "Kıyamet günü nefs kendi aleyhine şahitlik edecek"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kıyamet gününü anlatır; kaçış olmadığını, Allah'ın her şeyi bilen olduğunu vurgular.",
+      "en": "Describes the Day of Judgment; emphasizes there is no escape and God knows all things."
+    }
+  },
+  {
+    "id": 32,
+    "surahNumber": 104,
+    "surahName": {
+      "ar": "الهمزة",
+      "en": "Al-Humazah",
+      "tr": "Hümeze"
+    },
+    "period": "Mekke",
+    "year": "616 M.",
+    "revelationOrder": 32,
+    "verses": "104:1-9",
+    "event": {
+      "en": "Woe to every slanderer and backbiter",
+      "tr": "Arkadan çekiştirip mal yığanların akıbeti"
+    },
+    "context": {
+      "en": "Woe to every slanderer and backbiter",
+      "tr": "Arkadan çekiştirip mal yığanların akıbeti"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Dünya malıyla övünmenin, sürekli biriktirmenin tehlikesine dikkat çeker.",
+      "en": "Warns against boasting about worldly wealth and the danger of constant accumulation."
+    }
+  },
+  {
+    "id": 33,
+    "surahNumber": 77,
+    "surahName": {
+      "ar": "المرسلات",
+      "en": "Al-Mursalat",
+      "tr": "Mürselat"
+    },
+    "period": "Mekke",
+    "year": "616 M.",
+    "revelationOrder": 33,
+    "verses": "77:1-50",
+    "event": {
+      "en": "Winds sent forth – repeated warning",
+      "tr": "Azap inkarcılara: 'O gün yalanlayanların vay haline!'"
+    },
+    "context": {
+      "en": "Winds sent forth – repeated warning",
+      "tr": "Azap inkarcılara: 'O gün yalanlayanların vay haline!'"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "İnsanların kıyamette Allah'a karşı hesap vereceğini ve cennet ile cehennemin varlığını anlatır.",
+      "en": "Describes man's reckoning before God on the Day of Judgment and the reality of paradise and hell."
+    }
+  },
+  {
+    "id": 34,
+    "surahNumber": 50,
+    "surahName": {
+      "ar": "ق",
+      "en": "Qaf",
+      "tr": "Kaf"
+    },
+    "period": "Mekke",
+    "year": "616 M.",
+    "revelationOrder": 34,
+    "verses": "50:1-45",
+    "event": {
+      "en": "Quran as proof – Day of Resurrection",
+      "tr": "Kur'an hakikatinin delili; dirilişi inkara cevap"
+    },
+    "context": {
+      "en": "Quran as proof – Day of Resurrection",
+      "tr": "Kur'an hakikatinin delili; dirilişi inkara cevap"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kaf harfiyle başlar; kıyamet ve dirilişi anlatır; insanın her hareketini izleyen melekleri tasvir eder.",
+      "en": "Opens with Qaf; describes resurrection and the Day of Judgment; depicts angels recording every human act."
+    }
+  },
+  {
+    "id": 35,
+    "surahNumber": 90,
+    "surahName": {
+      "ar": "البلد",
+      "en": "Al-Balad",
+      "tr": "Beled"
+    },
+    "period": "Mekke",
+    "year": "616 M.",
+    "revelationOrder": 35,
+    "verses": "90:1-20",
+    "event": {
+      "en": "The Holy City – uphill road of virtue",
+      "tr": "Mekke'yi şahit göstererek erdemli yolu tutma çağrısı"
+    },
+    "context": {
+      "en": "The Holy City – uphill road of virtue",
+      "tr": "Mekke'yi şahit göstererek erdemli yolu tutma çağrısı"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Hac ve Allah yolunda cihad ibadeti hakkında ayrıntılı hükümler içerir.",
+      "en": "Contains detailed rulings on the Hajj pilgrimage and striving in God's path."
+    }
+  },
+  {
+    "id": 36,
+    "surahNumber": 86,
+    "surahName": {
+      "ar": "الطارق",
+      "en": "At-Tariq",
+      "tr": "Tarık"
+    },
+    "period": "Mekke",
+    "year": "616 M.",
+    "revelationOrder": 36,
+    "verses": "86:1-17",
+    "event": {
+      "en": "Piercing star – every soul has a guardian",
+      "tr": "Gökteki sabah yıldızı yemini; her nefse bekçi"
+    },
+    "context": {
+      "en": "Piercing star – every soul has a guardian",
+      "tr": "Gökteki sabah yıldızı yemini; her nefse bekçi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "İnsanın pis bir sudan yaratıldığını, kıyamette her şeyin hesaba çekileceğini anlatır.",
+      "en": "States man was created from a humble fluid; on the Day of Judgment everything will be called to account."
+    }
+  },
+  {
+    "id": 37,
+    "surahNumber": 54,
+    "surahName": {
+      "ar": "القمر",
+      "en": "Al-Qamar",
+      "tr": "Kamer"
+    },
+    "period": "Mekke",
+    "year": "616 M.",
+    "revelationOrder": 37,
+    "verses": "54:1-55",
+    "event": {
+      "en": "Moon split miracle – Quraysh deny signs",
+      "tr": "Ay'ın yarılması mucizesi; Kureyş'in mucizeyi reddetmesi"
+    },
+    "context": {
+      "en": "Moon split miracle – Quraysh deny signs",
+      "tr": "Ay'ın yarılması mucizesi; Kureyş'in mucizeyi reddetmesi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kâfirleri reddetmeye ve Allah'a tevekkül etmeye davet eder.",
+      "en": "Invites the Prophet to reject the disbelievers and put trust in God."
+    }
+  },
+  {
+    "id": 38,
+    "surahNumber": 38,
+    "surahName": {
+      "ar": "ص",
+      "en": "Sad",
+      "tr": "Sad"
+    },
+    "period": "Mekke",
+    "year": "617 M.",
+    "revelationOrder": 38,
+    "verses": "38:1-88",
+    "event": {
+      "en": "David and Solomon's wisdom – Prophet's steadfastness",
+      "tr": "Davud ve Süleyman'ın hikmetli kıssaları"
+    },
+    "context": {
+      "en": "David and Solomon's wisdom – Prophet's steadfastness",
+      "tr": "Davud ve Süleyman'ın hikmetli kıssaları"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Yaratılışın delilleriyle Allah'ın varlığını kanıtlar; Peygamber'in kaygılarını teselli eder.",
+      "en": "Proves God's existence through the signs of creation; consoles the Prophet's concerns."
+    }
+  },
+  {
+    "id": 39,
+    "surahNumber": 7,
+    "surahName": {
+      "ar": "الأعراف",
+      "en": "Al-A'raf",
+      "tr": "A'raf"
+    },
+    "period": "Mekke",
+    "year": "617 M.",
+    "revelationOrder": 39,
+    "verses": "7:1-206",
+    "event": {
+      "en": "Detailed stories of prophets and their nations",
+      "tr": "Hud, Salih, Lut, Şuayb peygamberlerin kıssaları"
+    },
+    "context": {
+      "en": "Detailed stories of prophets and their nations",
+      "tr": "Hud, Salih, Lut, Şuayb peygamberlerin kıssaları"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kıyamet anını ve üç grubun (öncüler, sağcılar, solcular) durumunu anlatır.",
+      "en": "Describes the moment of resurrection and the state of three groups: the foremost, the righteous, and the wretched."
+    }
+  },
+  {
+    "id": 40,
+    "surahNumber": 72,
+    "surahName": {
+      "ar": "الجن",
+      "en": "Al-Jinn",
+      "tr": "Cin"
+    },
+    "period": "Mekke",
+    "year": "617 M.",
+    "revelationOrder": 40,
+    "verses": "72:1-28",
+    "event": {
+      "en": "Jinn who heard the Quran and believed",
+      "tr": "Cin topluluğunun Kuran'ı duyup iman etmesi"
+    },
+    "context": {
+      "en": "Jinn who heard the Quran and believed",
+      "tr": "Cin topluluğunun Kuran'ı duyup iman etmesi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Şairlerin ve şiirin hükmünü, Peygamber'in şair olmadığını açıklar.",
+      "en": "Explains the ruling on poets and poetry, and clarifies that the Prophet is not a poet."
+    }
+  },
+  {
+    "id": 41,
+    "surahNumber": 36,
+    "surahName": {
+      "ar": "يس",
+      "en": "Ya-Sin",
+      "tr": "Ya Sin"
+    },
+    "period": "Mekke",
+    "year": "617 M.",
+    "revelationOrder": 41,
+    "verses": "36:1-83",
+    "event": {
+      "en": "Heart of the Quran – resurrection proof",
+      "tr": "'Kuran'ın kalbi'; diriliş ve vahyin hakikati"
+    },
+    "context": {
+      "en": "Heart of the Quran – resurrection proof",
+      "tr": "'Kuran'ın kalbi'; diriliş ve vahyin hakikati"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Cin suresinde cinlerin Kur'an'ı dinleyip iman etmelerini ve elçilerini anlatır.",
+      "en": "Describes jinns listening to the Quran, believing, and telling their people about this messenger."
+    }
+  },
+  {
+    "id": 42,
+    "surahNumber": 25,
+    "surahName": {
+      "ar": "الفرقان",
+      "en": "Al-Furqan",
+      "tr": "Furkan"
+    },
+    "period": "Mekke",
+    "year": "617 M.",
+    "revelationOrder": 42,
+    "verses": "25:1-77",
+    "event": {
+      "en": "The Criterion – Quran separates truth from falsehood",
+      "tr": "Hak ile batılı ayıran ölçüt; müşriklerin itirazlarına cevap"
+    },
+    "context": {
+      "en": "The Criterion – Quran separates truth from falsehood",
+      "tr": "Hak ile batılı ayıran ölçüt; müşriklerin itirazlarına cevap"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Ya Sin harfleriyle başlar; Kur'an'ın hikmetinden, kıyametten ve diriliş delillerinden söz eder.",
+      "en": "Opens with Ya Sin; speaks of the wisdom of the Quran, the Day of Judgment, and proofs of resurrection."
+    }
+  },
+  {
+    "id": 43,
+    "surahNumber": 35,
+    "surahName": {
+      "ar": "فاطر",
+      "en": "Fatir",
+      "tr": "Fatır"
+    },
+    "period": "Mekke",
+    "year": "617 M.",
+    "revelationOrder": 43,
+    "verses": "35:1-45",
+    "event": {
+      "en": "The Originator – angels as messengers",
+      "tr": "Yaratıcı Allah; melekler ve kainatın düzeni"
+    },
+    "context": {
+      "en": "The Originator – angels as messengers",
+      "tr": "Yaratıcı Allah; melekler ve kainatın düzeni"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Hakkı batıldan ayıran Kur'an'ın özelliklerini anlatır; geçmiş peygamberlerin kıssalarına değinir.",
+      "en": "Describes the characteristics of the Quran that distinguishes truth from falsehood; refers to stories of past prophets."
+    }
+  },
+  {
+    "id": 44,
+    "surahNumber": 19,
+    "surahName": {
+      "ar": "مريم",
+      "en": "Maryam",
+      "tr": "Meryem"
+    },
+    "period": "Mekke",
+    "year": "617 M.",
+    "revelationOrder": 44,
+    "verses": "19:1-98",
+    "event": {
+      "en": "Story of Mary and Jesus – revealed before Abyssinia migration",
+      "tr": "Meryem ve İsa kıssası; Habeşistan göçü öncesi indi"
+    },
+    "context": {
+      "en": "Story of Mary and Jesus – revealed before Abyssinia migration",
+      "tr": "Meryem ve İsa kıssası; Habeşistan göçü öncesi indi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Allah'ın varlığının delillerini sayar; inkârcıların azabını anlatır.",
+      "en": "Lists evidence of God's existence; describes the punishment of the disbelievers."
+    }
+  },
+  {
+    "id": 45,
+    "surahNumber": 20,
+    "surahName": {
+      "ar": "طه",
+      "en": "Ta-Ha",
+      "tr": "Ta-Ha"
+    },
+    "period": "Mekke",
+    "year": "617 M.",
+    "revelationOrder": 45,
+    "verses": "20:1-135",
+    "event": {
+      "en": "Moses detailed story – comfort for Prophet",
+      "tr": "Hz. Musa'nın ayrıntılı hayatı; Peygambere sabır dersi"
+    },
+    "context": {
+      "en": "Moses detailed story – comfort for Prophet",
+      "tr": "Hz. Musa'nın ayrıntılı hayatı; Peygambere sabır dersi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Hz. Meryem'in doğumu, Hz. Yahya ve Hz. İsa'nın doğumunu ve çeşitli peygamberlerin kıssalarını anlatır.",
+      "en": "Narrates the birth of Mary, John the Baptist, and Jesus, along with stories of various prophets."
+    }
+  },
+  {
+    "id": 46,
+    "surahNumber": 56,
+    "surahName": {
+      "ar": "الواقعة",
+      "en": "Al-Waqia",
+      "tr": "Vakıa"
+    },
+    "period": "Mekke",
+    "year": "617 M.",
+    "revelationOrder": 46,
+    "verses": "56:1-96",
+    "event": {
+      "en": "Three groups on Judgment Day",
+      "tr": "Kıyamette üç grup: öncüler, sağ taraftakiler, sol taraftakiler"
+    },
+    "context": {
+      "en": "Three groups on Judgment Day",
+      "tr": "Kıyamette üç grup: öncüler, sağ taraftakiler, sol taraftakiler"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Hz. Musa'nın vahiy alması, nübüvveti ve İsrailoğulları ile ilgili olayları anlatır.",
+      "en": "Narrates Moses receiving revelation, his prophethood, and events related to the Children of Israel."
+    }
+  },
+  {
+    "id": 47,
+    "surahNumber": 26,
+    "surahName": {
+      "ar": "الشعراء",
+      "en": "Ash-Shuara",
+      "tr": "Şuara"
+    },
+    "period": "Mekke",
+    "year": "618 M.",
+    "revelationOrder": 47,
+    "verses": "26:1-227",
+    "event": {
+      "en": "Moses, Abraham, Noah – poets who follow desires",
+      "tr": "Peygamberlerin kıssaları; hakkı söyleyen şairler"
+    },
+    "context": {
+      "en": "Moses, Abraham, Noah – poets who follow desires",
+      "tr": "Peygamberlerin kıssaları; hakkı söyleyen şairler"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kıyameti anlatır; o gün insanların üç sınıfa ayrılacağını bildirir.",
+      "en": "Describes the Day of Judgment; declares that people will be divided into three classes on that day."
+    }
+  },
+  {
+    "id": 48,
+    "surahNumber": 27,
+    "surahName": {
+      "ar": "النمل",
+      "en": "An-Naml",
+      "tr": "Neml"
+    },
+    "period": "Mekke",
+    "year": "618 M.",
+    "revelationOrder": 48,
+    "verses": "27:1-93",
+    "event": {
+      "en": "Solomon and Queen of Sheba – ant valley",
+      "tr": "Süleyman ile Sebe Melikesi; karıncaların vadisi"
+    },
+    "context": {
+      "en": "Solomon and Queen of Sheba – ant valley",
+      "tr": "Süleyman ile Sebe Melikesi; karıncaların vadisi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Şuara peygamberlerin etkili konuşmalarını anlatır; onları şairlerden ayırt eder.",
+      "en": "Narrates the powerful speeches of the prophets in Shu'ara; distinguishes them from poets."
+    }
+  },
+  {
+    "id": 49,
+    "surahNumber": 28,
+    "surahName": {
+      "ar": "القصص",
+      "en": "Al-Qasas",
+      "tr": "Kasas"
+    },
+    "period": "Mekke",
+    "year": "618 M.",
+    "revelationOrder": 49,
+    "verses": "28:1-88",
+    "event": {
+      "en": "Full story of Moses from birth to prophethood",
+      "tr": "Musa'nın doğumundan peygamberliğe tam hayat hikayesi"
+    },
+    "context": {
+      "en": "Full story of Moses from birth to prophethood",
+      "tr": "Musa'nın doğumundan peygamberliğe tam hayat hikayesi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Neml suresinde Hz. Süleyman ile Sebe Melikesi Belkıs'ın kıssasını ve karınca mucizesini anlatır.",
+      "en": "In Naml, narrates the story of Solomon and the Queen of Sheba, Bilqis, and the miracle of the ant."
+    }
+  },
+  {
+    "id": 50,
+    "surahNumber": 17,
+    "surahName": {
+      "ar": "الإسراء",
+      "en": "Al-Isra",
+      "tr": "İsra"
+    },
+    "period": "Mekke",
+    "year": "619 M.",
+    "revelationOrder": 50,
+    "verses": "17:1-111",
+    "event": {
+      "en": "Night Journey – Isra and Mi'raj miracle",
+      "tr": "Miraç mucizesi; Peygamberin Mescid-i Haram'dan Aksa'ya yolculuğu"
+    },
+    "context": {
+      "en": "Night Journey – Isra and Mi'raj miracle",
+      "tr": "Miraç mucizesi; Peygamberin Mescid-i Haram'dan Aksa'ya yolculuğu"
+    },
+    "coordinates": [
+      0,
+      12,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Miraç (Gökyüzü)",
+        "en": "Al-Miraj (Heavens)"
+      },
+      "coords": [
+        0,
+        12,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Hz. Musa'nın doğumunu, gençliğini ve Firavun'la mücadelesini anlatır.",
+      "en": "Narrates Moses' birth, youth, and struggle against Pharaoh."
+    }
+  },
+  {
+    "id": 51,
+    "surahNumber": 10,
+    "surahName": {
+      "ar": "يونس",
+      "en": "Yunus",
+      "tr": "Yunus"
+    },
+    "period": "Mekke",
+    "year": "619 M.",
+    "revelationOrder": 51,
+    "verses": "10:1-109",
+    "event": {
+      "en": "Story of Jonah – the accepted repentance",
+      "tr": "Yunus'un kıssası; tüm bir milletin tövbesi kabul edildi"
+    },
+    "context": {
+      "en": "Story of Jonah – the accepted repentance",
+      "tr": "Yunus'un kıssası; tüm bir milletin tövbesi kabul edildi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Peygamber'in Mekke'den Medine'ye hicret öncesi gece yolculuğunu (İsra) anlatır.",
+      "en": "Describes the Prophet's night journey (Isra) from Mecca to Jerusalem before his migration to Medina."
+    }
+  },
+  {
+    "id": 52,
+    "surahNumber": 11,
+    "surahName": {
+      "ar": "هود",
+      "en": "Hud",
+      "tr": "Hud"
+    },
+    "period": "Mekke",
+    "year": "619 M.",
+    "revelationOrder": 52,
+    "verses": "11:1-123",
+    "event": {
+      "en": "Stories of prophets after Quraysh continued mockery",
+      "tr": "Kureyş inadına karşı birçok peygamber kıssası"
+    },
+    "context": {
+      "en": "Stories of prophets after Quraysh continued mockery",
+      "tr": "Kureyş inadına karşı birçok peygamber kıssası"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Allah'ın birliğini reddeden Mekke müşriklerini uyarır; geçmiş kavimlerin helakını hatırlatır.",
+      "en": "Warns Meccan polytheists who deny God's unity; reminds them of the destruction of past peoples."
+    }
+  },
+  {
+    "id": 53,
+    "surahNumber": 12,
+    "surahName": {
+      "ar": "يوسف",
+      "en": "Yusuf",
+      "tr": "Yusuf"
+    },
+    "period": "Mekke",
+    "year": "619 M.",
+    "revelationOrder": 53,
+    "verses": "12:1-111",
+    "event": {
+      "en": "Year of Sorrow: Khadija and Abu Talib die",
+      "tr": "'Hüzün Yılı': Hz. Hatice ve Ebu Talip vefatı sırasında indi"
+    },
+    "context": {
+      "en": "Year of Sorrow: Khadija and Abu Talib die",
+      "tr": "'Hüzün Yılı': Hz. Hatice ve Ebu Talip vefatı sırasında indi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Hz. Nuh, Hz. Hud, Hz. Salih, Hz. İbrahim ve diğer peygamberlerin kıssalarını anlatır.",
+      "en": "Narrates stories of Noah, Hud, Salih, Abraham and other prophets."
+    }
+  },
+  {
+    "id": 54,
+    "surahNumber": 15,
+    "surahName": {
+      "ar": "الحجر",
+      "en": "Al-Hijr",
+      "tr": "Hicr"
+    },
+    "period": "Mekke",
+    "year": "619 M.",
+    "revelationOrder": 54,
+    "verses": "15:1-99",
+    "event": {
+      "en": "Al-Hijr valley – Thamud, Lot's people",
+      "tr": "Hicr bölgesi; Semud ve Lut kavminin helaki"
+    },
+    "context": {
+      "en": "Al-Hijr valley – Thamud, Lot's people",
+      "tr": "Hicr bölgesi; Semud ve Lut kavminin helaki"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Hz. Yusuf'un hayatını başından sonuna kadar eksiksiz anlatır.",
+      "en": "Tells the complete story of Joseph from beginning to end."
+    }
+  },
+  {
+    "id": 55,
+    "surahNumber": 6,
+    "surahName": {
+      "ar": "الأنعام",
+      "en": "Al-Anam",
+      "tr": "En'am"
+    },
+    "period": "Mekke",
+    "year": "619 M.",
+    "revelationOrder": 55,
+    "verses": "6:1-165",
+    "event": {
+      "en": "60 aspects of monotheism – revealed at once",
+      "tr": "60 farklı tevhid delili; tek seferde tüm olarak indi"
+    },
+    "context": {
+      "en": "60 aspects of monotheism – revealed at once",
+      "tr": "60 farklı tevhid delili; tek seferde tüm olarak indi"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Müminler, münafıklar ve kâfirler üç grup olarak ele alınır; Hicr vadisi halkı ve Hz. İbrahim anlatılır.",
+      "en": "Three groups are addressed: believers, hypocrites, disbelievers; the people of Hijr and Abraham are narrated."
+    }
+  },
+  {
+    "id": 56,
+    "surahNumber": 37,
+    "surahName": {
+      "ar": "الصافات",
+      "en": "As-Saffat",
+      "tr": "Saffat"
+    },
+    "period": "Mekke",
+    "year": "620 M.",
+    "revelationOrder": 56,
+    "verses": "37:1-182",
+    "event": {
+      "en": "Rows of angels – Ibrahim offers his son",
+      "tr": "Saf saf melekler; İbrahim'in oğlunu kurban etmeye hazırlanması"
+    },
+    "context": {
+      "en": "Rows of angels – Ibrahim offers his son",
+      "tr": "Saf saf melekler; İbrahim'in oğlunu kurban etmeye hazırlanması"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Evreni ve içindeki nimetleri sıralayarak Allah'ın yüceliğini ispat eder; inanmayanlardan hesap sorulacağını bildirir.",
+      "en": "Lists the universe's blessings to prove God's majesty; states the disbelievers will be called to account."
+    }
+  },
+  {
+    "id": 57,
+    "surahNumber": 31,
+    "surahName": {
+      "ar": "لقمان",
+      "en": "Luqman",
+      "tr": "Lokman"
+    },
+    "period": "Mekke",
+    "year": "620 M.",
+    "revelationOrder": 57,
+    "verses": "31:1-34",
+    "event": {
+      "en": "Luqman's wisdom to his son",
+      "tr": "Lokman'ın oğluna nasihatleri: Allah'a ortak koşma, saygı göster"
+    },
+    "context": {
+      "en": "Luqman's wisdom to his son",
+      "tr": "Lokman'ın oğluna nasihatleri: Allah'a ortak koşma, saygı göster"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kıyamete yemin ederek insanın kendi nefsine karşı tanık olduğunu bildirir.",
+      "en": "Swearing by the Day of Resurrection, states that man is a witness against his own soul."
+    }
+  },
+  {
+    "id": 58,
+    "surahNumber": 34,
+    "surahName": {
+      "ar": "سبأ",
+      "en": "Saba",
+      "tr": "Sebe"
+    },
+    "period": "Mekke",
+    "year": "620 M.",
+    "revelationOrder": 58,
+    "verses": "34:1-54",
+    "event": {
+      "en": "Kingdom of Sheba – blessings turned to loss",
+      "tr": "Sebe melikesinin şükran etmediği nimet kavramı"
+    },
+    "context": {
+      "en": "Kingdom of Sheba – blessings turned to loss",
+      "tr": "Sebe melikesinin şükran etmediği nimet kavramı"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "İbrahim başta olmak üzere peygamberlerin kıssalarını anlatır; sonunda putperestleri uyarır.",
+      "en": "Narrates stories of prophets, especially Abraham; at the end warns the polytheists."
+    }
+  },
+  {
+    "id": 59,
+    "surahNumber": 39,
+    "surahName": {
+      "ar": "الزمر",
+      "en": "Az-Zumar",
+      "tr": "Zümer"
+    },
+    "period": "Mekke",
+    "year": "620 M.",
+    "revelationOrder": 59,
+    "verses": "39:1-75",
+    "event": {
+      "en": "Groups entering paradise and hellfire",
+      "tr": "Cennet ve cehennem gruplarının tasviri; ihlasla ibadet"
+    },
+    "context": {
+      "en": "Groups entering paradise and hellfire",
+      "tr": "Cennet ve cehennem gruplarının tasviri; ihlasla ibadet"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Doğa ve tarih delilleriyle Allah'ın birliğini kanıtlar; inançsızları uyarır.",
+      "en": "Proves God's unity through natural and historical evidence; warns the disbelievers."
+    }
+  },
+  {
+    "id": 60,
+    "surahNumber": 40,
+    "surahName": {
+      "ar": "غافر",
+      "en": "Ghafir",
+      "tr": "Mümin"
+    },
+    "period": "Mekke",
+    "year": "620 M.",
+    "revelationOrder": 60,
+    "verses": "40:1-85",
+    "event": {
+      "en": "The Forgiver – believer from Pharaoh's family",
+      "tr": "Firavun'un ailesinden gizli mü'min; günahları bağışlayan Allah"
+    },
+    "context": {
+      "en": "The Forgiver – believer from Pharaoh's family",
+      "tr": "Firavun'un ailesinden gizli mü'min; günahları bağışlayan Allah"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Zümer başlığı insanların ahiretteki gruplarını (cehennemlikler ve cennetlikler) anlatır.",
+      "en": "Zumar describes groups of people in the afterlife (those destined for hell and paradise)."
+    }
+  },
+  {
+    "id": 61,
+    "surahNumber": 41,
+    "surahName": {
+      "ar": "فصلت",
+      "en": "Fussilat",
+      "tr": "Fussilet"
+    },
+    "period": "Mekke",
+    "year": "620 M.",
+    "revelationOrder": 61,
+    "verses": "41:1-54",
+    "event": {
+      "en": "Verses spelled out – Ad and Thamud warned",
+      "tr": "Arapça açıklanan vahiy; Ad ve Semud'a uyarı"
+    },
+    "context": {
+      "en": "Verses spelled out – Ad and Thamud warned",
+      "tr": "Arapça açıklanan vahiy; Ad ve Semud'a uyarı"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Müminlerin özelliklerini ve inkârcıların tutumunu anlatır; Allah'a dua ve teslimiyeti öğütler.",
+      "en": "Describes characteristics of believers and the attitude of disbelievers; urges prayer and surrender to God."
+    }
+  },
+  {
+    "id": 62,
+    "surahNumber": 42,
+    "surahName": {
+      "ar": "الشورى",
+      "en": "Ash-Shura",
+      "tr": "Şura"
+    },
+    "period": "Mekke",
+    "year": "620 M.",
+    "revelationOrder": 62,
+    "verses": "42:1-53",
+    "event": {
+      "en": "Consultation – revelation to all prophets",
+      "tr": "İstişare emri; tüm peygamberlere gelen ortak vahiy"
+    },
+    "context": {
+      "en": "Consultation – revelation to all prophets",
+      "tr": "İstişare emri; tüm peygamberlere gelen ortak vahiy"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kur'an'ın apaçık kitap olduğunu; Hz. Musa ve Hz. İsa'ya değinir.",
+      "en": "States the Quran is a clear book; refers to Moses and Jesus."
+    }
+  },
+  {
+    "id": 63,
+    "surahNumber": 43,
+    "surahName": {
+      "ar": "الزخرف",
+      "en": "Az-Zukhruf",
+      "tr": "Zuhruf"
+    },
+    "period": "Mekke",
+    "year": "620 M.",
+    "revelationOrder": 63,
+    "verses": "43:1-89",
+    "event": {
+      "en": "Gold Ornaments – Jesus not divine",
+      "tr": "Altın süsler; İsa'nın ilah olmadığının ispatı"
+    },
+    "context": {
+      "en": "Gold Ornaments – Jesus not divine",
+      "tr": "Altın süsler; İsa'nın ilah olmadığının ispatı"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Vahyin nasıl indiğini, şura (danışma) ilkesini ve iman esaslarını anlatır.",
+      "en": "Describes how revelation descends, the principle of consultation (shura), and articles of faith."
+    }
+  },
+  {
+    "id": 64,
+    "surahNumber": 44,
+    "surahName": {
+      "ar": "الدخان",
+      "en": "Ad-Dukhan",
+      "tr": "Duhan"
+    },
+    "period": "Mekke",
+    "year": "620 M.",
+    "revelationOrder": 64,
+    "verses": "44:1-59",
+    "event": {
+      "en": "The Smoke – famine and Day of Judgment",
+      "tr": "Mekke'yi kaplayan duman belası; kıyamet"
+    },
+    "context": {
+      "en": "The Smoke – famine and Day of Judgment",
+      "tr": "Mekke'yi kaplayan duman belası; kıyamet"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Altın süslemelere sahip olmanın gerçek mutluluk olmadığını; ahiret nimetlerinin üstünlüğünü anlatır.",
+      "en": "States that golden adornments are not true happiness; emphasizes the superiority of the hereafter's blessings."
+    }
+  },
+  {
+    "id": 65,
+    "surahNumber": 45,
+    "surahName": {
+      "ar": "الجاثية",
+      "en": "Al-Jathiyah",
+      "tr": "Casiye"
+    },
+    "period": "Mekke",
+    "year": "620 M.",
+    "revelationOrder": 65,
+    "verses": "45:1-37",
+    "event": {
+      "en": "The Kneeling – every nation has its record",
+      "tr": "Her millet diz çökmüş; amel defterleri açılıyor"
+    },
+    "context": {
+      "en": "The Kneeling – every nation has its record",
+      "tr": "Her millet diz çökmüş; amel defterleri açılıyor"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Duman (Duhan) azabından ve inkârcıların durumundan söz eder; Hz. Musa ve Firavun kıssasını işler.",
+      "en": "Speaks of the punishment of smoke (Dukhan) and the state of disbelievers; addresses the story of Moses and Pharaoh."
+    }
+  },
+  {
+    "id": 66,
+    "surahNumber": 46,
+    "surahName": {
+      "ar": "الأحقاف",
+      "en": "Al-Ahqaf",
+      "tr": "Ahkaf"
+    },
+    "period": "Mekke",
+    "year": "621 M.",
+    "revelationOrder": 66,
+    "verses": "46:1-35",
+    "event": {
+      "en": "Sand Dunes – Ad people destroyed",
+      "tr": "Ad kavminin yaşadığı Ahkaf bölgesi; inkara karşı ibret"
+    },
+    "context": {
+      "en": "Sand Dunes – Ad people destroyed",
+      "tr": "Ad kavminin yaşadığı Ahkaf bölgesi; inkara karşı ibret"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Allah'ın evrendeki delillerini sıralar; inkârcıların helak olduğu toplumların kıssalarını anlatır.",
+      "en": "Lists God's signs in the universe; tells the stories of communities destroyed for disbelief."
+    }
+  },
+  {
+    "id": 67,
+    "surahNumber": 51,
+    "surahName": {
+      "ar": "الذاريات",
+      "en": "Adh-Dhariyat",
+      "tr": "Zariyat"
+    },
+    "period": "Mekke",
+    "year": "621 M.",
+    "revelationOrder": 67,
+    "verses": "51:1-60",
+    "event": {
+      "en": "Winnowing Winds – Ibrahim hosts angels",
+      "tr": "Dağıtan rüzgarlar; İbrahim'e gelen melek misafirler"
+    },
+    "context": {
+      "en": "Winnowing Winds – Ibrahim hosts angels",
+      "tr": "Dağıtan rüzgarlar; İbrahim'e gelen melek misafirler"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Hak ile batıl arasındaki mücadeleyi anlatır; imanın önemi ve inananların tutumu ele alınır.",
+      "en": "Narrates the struggle between truth and falsehood; discusses the importance of faith and believers' stance."
+    }
+  },
+  {
+    "id": 68,
+    "surahNumber": 88,
+    "surahName": {
+      "ar": "الغاشية",
+      "en": "Al-Ghashiyah",
+      "tr": "Gaşiye"
+    },
+    "period": "Mekke",
+    "year": "621 M.",
+    "revelationOrder": 68,
+    "verses": "88:1-26",
+    "event": {
+      "en": "The Overwhelming Event – faces humbled or joyful",
+      "tr": "O gün bazı yüzler eğilmiş, bazıları pırıl pırıl"
+    },
+    "context": {
+      "en": "The Overwhelming Event – faces humbled or joyful",
+      "tr": "O gün bazı yüzler eğilmiş, bazıları pırıl pırıl"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Esen rüzgârlara yemin ederek kıyamet ve geçmiş kavimlerin helakını anlatır.",
+      "en": "Swearing by the scattering winds, describes the Day of Judgment and the destruction of past peoples."
+    }
+  },
+  {
+    "id": 69,
+    "surahNumber": 18,
+    "surahName": {
+      "ar": "الكهف",
+      "en": "Al-Kahf",
+      "tr": "Kehf"
+    },
+    "period": "Mekke",
+    "year": "621 M.",
+    "revelationOrder": 69,
+    "verses": "18:1-110",
+    "event": {
+      "en": "People of the Cave – protection story for Quraysh",
+      "tr": "Mağara Ashابı; Deccal sorusuna cevap; Hızır-Musa kıssası"
+    },
+    "context": {
+      "en": "People of the Cave – protection story for Quraysh",
+      "tr": "Mağara Ashابı; Deccal sorusuna cevap; Hızır-Musa kıssası"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Allah'ın nimetlerini (Rahman) sıralar; her nimet sonrasında 'Rabbinizin hangi nimetlerini yalanlarsınız?' diye sorar.",
+      "en": "Lists God's blessings (the Most Merciful); after each blessing asks, 'Which of your Lord's favors will you deny?'"
+    }
+  },
+  {
+    "id": 70,
+    "surahNumber": 16,
+    "surahName": {
+      "ar": "النحل",
+      "en": "An-Nahl",
+      "tr": "Nahl"
+    },
+    "period": "Mekke",
+    "year": "621 M.",
+    "revelationOrder": 70,
+    "verses": "16:1-128",
+    "event": {
+      "en": "The Bees – gratitude for nature's blessings",
+      "tr": "Arının vahyine işaret; nimete şükür"
+    },
+    "context": {
+      "en": "The Bees – gratitude for nature's blessings",
+      "tr": "Arının vahyine işaret; nimete şükür"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "İnsana ve Allah'ın nimetlerine şükretmeyi öğütler; insan ve toplumun sorumluluklarını bildirir.",
+      "en": "Urges gratitude to man and for God's blessings; states the responsibilities of the individual and society."
+    }
+  },
+  {
+    "id": 71,
+    "surahNumber": 71,
+    "surahName": {
+      "ar": "نوح",
+      "en": "Nuh",
+      "tr": "Nuh"
+    },
+    "period": "Mekke",
+    "year": "621 M.",
+    "revelationOrder": 71,
+    "verses": "71:1-28",
+    "event": {
+      "en": "Noah's 950 years of patient calling",
+      "tr": "Nuh'un 950 yıllık tebliğ ve sabrı; inkarcı kavim helak"
+    },
+    "context": {
+      "en": "Noah's 950 years of patient calling",
+      "tr": "Nuh'un 950 yıllık tebliğ ve sabrı; inkarcı kavim helak"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Boşanma ile ilgili hukuki düzenlemeler ve evlilik hayatındaki adalet kurallarını bildirir.",
+      "en": "Prescribes legal regulations regarding divorce and rules of justice in married life."
+    }
+  },
+  {
+    "id": 72,
+    "surahNumber": 14,
+    "surahName": {
+      "ar": "إبراهيم",
+      "en": "Ibrahim",
+      "tr": "İbrahim"
+    },
+    "period": "Mekke",
+    "year": "621 M.",
+    "revelationOrder": 72,
+    "verses": "14:1-52",
+    "event": {
+      "en": "Ibrahim's prayer for Mecca and his offspring",
+      "tr": "İbrahim'in Mekke için ve zürriyeti için duası"
+    },
+    "context": {
+      "en": "Ibrahim's prayer for Mecca and his offspring",
+      "tr": "İbrahim'in Mekke için ve zürriyeti için duası"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Hz. Nuh'un kavmini iman etmeye nasıl davet ettiğini ve sonunda beddua edip gemiye bindiğini anlatır.",
+      "en": "Narrates how Noah invited his people to faith and finally cursed them and boarded the ark."
+    }
+  },
+  {
+    "id": 73,
+    "surahNumber": 21,
+    "surahName": {
+      "ar": "الأنبياء",
+      "en": "Al-Anbiya",
+      "tr": "Enbiya"
+    },
+    "period": "Mekke",
+    "year": "621 M.",
+    "revelationOrder": 73,
+    "verses": "21:1-112",
+    "event": {
+      "en": "The Prophets – chain of prophethood",
+      "tr": "Peygamberler zinciri; tevhid mesajının sürekliliği"
+    },
+    "context": {
+      "en": "The Prophets – chain of prophethood",
+      "tr": "Peygamberler zinciri; tevhid mesajının sürekliliği"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Hz. İbrahim'in putperestlere karşı mücadelesi ve oğlu İsmail ile Kâbe'yi inşasını anlatır.",
+      "en": "Narrates Abraham's struggle against idolaters and his building of the Kaaba with his son Ishmael."
+    }
+  },
+  {
+    "id": 74,
+    "surahNumber": 23,
+    "surahName": {
+      "ar": "المؤمنون",
+      "en": "Al-Mu'minoon",
+      "tr": "Mü'minun"
+    },
+    "period": "Mekke",
+    "year": "622 M.",
+    "revelationOrder": 74,
+    "verses": "23:1-118",
+    "event": {
+      "en": "Qualities of true believers before Hijra",
+      "tr": "Hicret öncesi gerçek mü'minlerin özellikleri"
+    },
+    "context": {
+      "en": "Qualities of true believers before Hijra",
+      "tr": "Hicret öncesi gerçek mü'minlerin özellikleri"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Geçmiş peygamberlerin kıssaları üzerinden Allah'ın her toplumu uyardığını ve inkârcıların helak olduğunu anlatır.",
+      "en": "Through stories of past prophets, shows God warned every community and the disbelievers perished."
+    }
+  },
+  {
+    "id": 75,
+    "surahNumber": 32,
+    "surahName": {
+      "ar": "السجدة",
+      "en": "As-Sajdah",
+      "tr": "Secde"
+    },
+    "period": "Mekke",
+    "year": "622 M.",
+    "revelationOrder": 75,
+    "verses": "32:1-30",
+    "event": {
+      "en": "The Prostration – Quran's truth vs denial",
+      "tr": "Kuran'ın gerçekliği; secde ve ihya gecesi ibadeti"
+    },
+    "context": {
+      "en": "The Prostration – Quran's truth vs denial",
+      "tr": "Kuran'ın gerçekliği; secde ve ihya gecesi ibadeti"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "İman eden erkek ve kadının özelliklerini sayar; inkârcıların durumunu ele alır.",
+      "en": "Lists qualities of believing men and women; addresses the state of the disbelievers."
+    }
+  },
+  {
+    "id": 76,
+    "surahNumber": 52,
+    "surahName": {
+      "ar": "الطور",
+      "en": "At-Tur",
+      "tr": "Tur"
+    },
+    "period": "Mekke",
+    "year": "622 M.",
+    "revelationOrder": 76,
+    "verses": "52:1-49",
+    "event": {
+      "en": "Mount Sinai oath – Day of Judgment certain",
+      "tr": "Tur dağı yemini; cennet ve cehennemin kesinliği"
+    },
+    "context": {
+      "en": "Mount Sinai oath – Day of Judgment certain",
+      "tr": "Tur dağı yemini; cennet ve cehennemin kesinliği"
+    },
+    "coordinates": [
+      -15,
+      5,
+      -15
+    ],
+    "location": {
+      "name": {
+        "tr": "Tur Dağı",
+        "en": "Mount Sinai"
+      },
+      "coords": [
+        -15,
+        5,
+        -15
+      ]
+    },
+    "tafsir": {
+      "tr": "Kıyameti ve insanların ruhlarının alınmasını anlatır; secde ayeti içerir.",
+      "en": "Describes the Day of Judgment and the taking of souls; contains a verse of prostration."
+    }
+  },
+  {
+    "id": 77,
+    "surahNumber": 67,
+    "surahName": {
+      "ar": "الملك",
+      "en": "Al-Mulk",
+      "tr": "Mülk"
+    },
+    "period": "Mekke",
+    "year": "622 M.",
+    "revelationOrder": 77,
+    "verses": "67:1-30",
+    "event": {
+      "en": "Sovereignty – seven heavens, death as test",
+      "tr": "Gökyüzünün yedi katı; ölüm-yaşam sınavı"
+    },
+    "context": {
+      "en": "Sovereignty – seven heavens, death as test",
+      "tr": "Gökyüzünün yedi katı; ölüm-yaşam sınavı"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Tur Dağı'na yemin ederek kıyameti anlatır; inkârcıları uyarır.",
+      "en": "Swearing by Mount Tur, describes the Day of Judgment; warns the disbelievers."
+    }
+  },
+  {
+    "id": 78,
+    "surahNumber": 69,
+    "surahName": {
+      "ar": "الحاقة",
+      "en": "Al-Haqqah",
+      "tr": "Hakka"
+    },
+    "period": "Mekke",
+    "year": "622 M.",
+    "revelationOrder": 78,
+    "verses": "69:1-52",
+    "event": {
+      "en": "The Inevitable – Ad and Thamud destroyed",
+      "tr": "Kaçınılmaz saat; Ad ve Semud'un şiddetli azabı"
+    },
+    "context": {
+      "en": "The Inevitable – Ad and Thamud destroyed",
+      "tr": "Kaçınılmaz saat; Ad ve Semud'un şiddetli azabı"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Mülkün (egemenliğin) yalnız Allah'a ait olduğunu anlatır; ölüm ve hayatın imtihan için yaratıldığını bildirir.",
+      "en": "States that dominion belongs to God alone; declares that death and life were created as a test."
+    }
+  },
+  {
+    "id": 79,
+    "surahNumber": 70,
+    "surahName": {
+      "ar": "المعارج",
+      "en": "Al-Ma'arij",
+      "tr": "Mearic"
+    },
+    "period": "Mekke",
+    "year": "622 M.",
+    "revelationOrder": 79,
+    "verses": "70:1-44",
+    "event": {
+      "en": "Ascending Stairways – angels ascend to God",
+      "tr": "Meleklerin 50.000 yıllık yükseliş yolu; sabır emri"
+    },
+    "context": {
+      "en": "Ascending Stairways – angels ascend to God",
+      "tr": "Meleklerin 50.000 yıllık yükseliş yolu; sabır emri"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kıyamet günü yaşananları anlatır; cehennem azabı ve cennet nimetlerini tasvir eder.",
+      "en": "Describes the events of the Day of Judgment; depicts the torment of hell and the blessings of paradise."
+    }
+  },
+  {
+    "id": 80,
+    "surahNumber": 78,
+    "surahName": {
+      "ar": "النبأ",
+      "en": "An-Naba",
+      "tr": "Nebe"
+    },
+    "period": "Mekke",
+    "year": "622 M.",
+    "revelationOrder": 80,
+    "verses": "78:1-40",
+    "event": {
+      "en": "The Great News – resurrection debated",
+      "tr": "İnsanların tartıştığı büyük haber: dirilme gerçeği"
+    },
+    "context": {
+      "en": "The Great News – resurrection debated",
+      "tr": "İnsanların tartıştığı büyük haber: dirilme gerçeği"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Kıyamet için yemin ederek ruhun Allah'a döneceğini; herkesin amelinden sorumlu olduğunu bildirir.",
+      "en": "Swearing by the Day of Judgment, states the soul will return to God; everyone is responsible for their deeds."
+    }
+  },
+  {
+    "id": 81,
+    "surahNumber": 79,
+    "surahName": {
+      "ar": "النازعات",
+      "en": "An-Naziat",
+      "tr": "Naziat"
+    },
+    "period": "Mekke",
+    "year": "622 M.",
+    "revelationOrder": 81,
+    "verses": "79:1-46",
+    "event": {
+      "en": "Those who drag forth – Pharaoh's fate",
+      "tr": "Ruhları çekip çıkaranlar; Firavunun hazıra ibret olması"
+    },
+    "context": {
+      "en": "Those who drag forth – Pharaoh's fate",
+      "tr": "Ruhları çekip çıkaranlar; Firavunun hazıra ibret olması"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Büyük haberi (kıyameti) anlatır; insanı bu günden önce hazırlanmaya davet eder.",
+      "en": "Narrates the great news (the Day of Judgment); invites man to prepare before that day."
+    }
+  },
+  {
+    "id": 82,
+    "surahNumber": 82,
+    "surahName": {
+      "ar": "الانفطار",
+      "en": "Al-Infitar",
+      "tr": "İnfitar"
+    },
+    "period": "Mekke",
+    "year": "622 M.",
+    "revelationOrder": 82,
+    "verses": "82:1-19",
+    "event": {
+      "en": "Sky cleaves apart – deeds recorded",
+      "tr": "Göğün yarılması; her amelin kayıt altında olması"
+    },
+    "context": {
+      "en": "Sky cleaves apart – deeds recorded",
+      "tr": "Göğün yarılması; her amelin kayıt altında olması"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Ruhları alan melekleri anlatır; kıyamet anını tasvir eder.",
+      "en": "Describes the angels who take souls; depicts the moment of resurrection."
+    }
+  },
+  {
+    "id": 83,
+    "surahNumber": 84,
+    "surahName": {
+      "ar": "الانشقاق",
+      "en": "Al-Inshiqaq",
+      "tr": "İnşikak"
+    },
+    "period": "Mekke",
+    "year": "622 M.",
+    "revelationOrder": 83,
+    "verses": "84:1-25",
+    "event": {
+      "en": "Sky splits – believer's easy reckoning",
+      "tr": "Göğün çatlayıp inşikakı; mü'mine kolay hesap"
+    },
+    "context": {
+      "en": "Sky splits – believer's easy reckoning",
+      "tr": "Göğün çatlayıp inşikakı; mü'mine kolay hesap"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Göğün yarılmasını ve Allah'a hesap vermeyi anlatır.",
+      "en": "Describes the splitting of the sky and giving account before God."
+    }
+  },
+  {
+    "id": 84,
+    "surahNumber": 30,
+    "surahName": {
+      "ar": "الروم",
+      "en": "Ar-Rum",
+      "tr": "Rum"
+    },
+    "period": "Mekke",
+    "year": "622 M.",
+    "revelationOrder": 84,
+    "verses": "30:1-60",
+    "event": {
+      "en": "Romans defeated – but will win in few years",
+      "tr": "Romalıların yenilgisi ama birkaç yıl sonra galip geleceklerine dair kehanet"
+    },
+    "context": {
+      "en": "Romans defeated – but will win in few years",
+      "tr": "Romalıların yenilgisi ama birkaç yıl sonra galip geleceklerine dair kehanet"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Ölçü ve tartıda hile yapanları uyarır; ahiretteki azabı haber verir.",
+      "en": "Warns those who cheat in weights and measures; announces the punishment in the hereafter."
+    }
+  },
+  {
+    "id": 85,
+    "surahNumber": 29,
+    "surahName": {
+      "ar": "العنكبوت",
+      "en": "Al-Ankabut",
+      "tr": "Ankebut"
+    },
+    "period": "Mekke",
+    "year": "622 M.",
+    "revelationOrder": 85,
+    "verses": "29:1-69",
+    "event": {
+      "en": "The Spider – trial before Hijra",
+      "tr": "Hicret öncesi son Mekke suresi; sıkıntı sınavı"
+    },
+    "context": {
+      "en": "The Spider – trial before Hijra",
+      "tr": "Hicret öncesi son Mekke suresi; sıkıntı sınavı"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Göğün yarılıp insan ruhunun Allah'a döneceğini anlatır.",
+      "en": "Describes the sky splitting open and the human soul returning to God."
+    }
+  },
+  {
+    "id": 86,
+    "surahNumber": 83,
+    "surahName": {
+      "ar": "المطففين",
+      "en": "Al-Mutaffifeen",
+      "tr": "Mutaffifin"
+    },
+    "period": "Mekke",
+    "year": "622 M.",
+    "revelationOrder": 86,
+    "verses": "83:1-36",
+    "event": {
+      "en": "Defrauders – cheat in weighing",
+      "tr": "Ölçü hilekarlarına vay; yerinde yeter cezası"
+    },
+    "context": {
+      "en": "Defrauders – cheat in weighing",
+      "tr": "Ölçü hilekarlarına vay; yerinde yeter cezası"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Hz. İbrahim ve Hz. Musa'nın kıssaları ile kıyamet gününe dair uyarılar içerir.",
+      "en": "Contains warnings about the Day of Judgment and the stories of Abraham and Moses."
+    }
+  },
+  {
+    "id": 87,
+    "surahNumber": 2,
+    "surahName": {
+      "ar": "البقرة",
+      "en": "Al-Baqarah",
+      "tr": "Bakara"
+    },
+    "period": "Medine",
+    "year": "622-624 M.",
+    "revelationOrder": 87,
+    "verses": "2:1-286",
+    "event": {
+      "en": "After Hijra – longest surah, Qibla changed to Mecca",
+      "tr": "Hicret sonrası en uzun sure; kıble Mescid-i Aksa'dan Kabe'ye döndürüldü"
+    },
+    "context": {
+      "en": "After Hijra – longest surah, Qibla changed to Mecca",
+      "tr": "Hicret sonrası en uzun sure; kıble Mescid-i Aksa'dan Kabe'ye döndürüldü"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Tarih boyunca Allah'a karşı çıkan toplumların ibret verici kıssalarını anlatır.",
+      "en": "Narrates cautionary tales of communities throughout history that opposed God."
+    }
+  },
+  {
+    "id": 88,
+    "surahNumber": 8,
+    "surahName": {
+      "ar": "الأنفال",
+      "en": "Al-Anfal",
+      "tr": "Enfal"
+    },
+    "period": "Medine",
+    "year": "624 M.",
+    "revelationOrder": 88,
+    "verses": "8:1-75",
+    "event": {
+      "en": "Battle of Badr – first major battle",
+      "tr": "Bedir Savaşı: 313 mü'min 1000 müşriki yendi"
+    },
+    "context": {
+      "en": "Battle of Badr – first major battle",
+      "tr": "Bedir Savaşı: 313 mü'min 1000 müşriki yendi"
+    },
+    "coordinates": [
+      20,
+      0,
+      -6
+    ],
+    "location": {
+      "name": {
+        "tr": "Bedir",
+        "en": "Badr"
+      },
+      "coords": [
+        20,
+        0,
+        -6
+      ]
+    },
+    "tafsir": {
+      "tr": "İman ile ameli birleştirmenin önemi ve Medine toplumunun ortak sorumlulukları ele alınır.",
+      "en": "The importance of combining faith with action and the shared responsibilities of the Medinan community."
+    }
+  },
+  {
+    "id": 89,
+    "surahNumber": 3,
+    "surahName": {
+      "ar": "آل عمران",
+      "en": "Al-Imran",
+      "tr": "Al-i İmran"
+    },
+    "period": "Medine",
+    "year": "625 M.",
+    "revelationOrder": 89,
+    "verses": "3:1-200",
+    "event": {
+      "en": "Battle of Uhud – lessons from setback",
+      "tr": "Uhud Savaşı'nın muhasebesini yaptı"
+    },
+    "context": {
+      "en": "Battle of Uhud – lessons from setback",
+      "tr": "Uhud Savaşı'nın muhasebesini yaptı"
+    },
+    "coordinates": [
+      24,
+      3,
+      -4
+    ],
+    "location": {
+      "name": {
+        "tr": "Uhud",
+        "en": "Uhud"
+      },
+      "coords": [
+        24,
+        3,
+        -4
+      ]
+    },
+    "tafsir": {
+      "tr": "Allah'ın varlığının delillerini anlatır; Peygamber'i inkâr etmemenin önemini vurgular.",
+      "en": "Narrates proof of God's existence; emphasizes the importance of not denying the Prophet."
+    }
+  },
+  {
+    "id": 90,
+    "surahNumber": 33,
+    "surahName": {
+      "ar": "الأحزاب",
+      "en": "Al-Ahzab",
+      "tr": "Ahzab"
+    },
+    "period": "Medine",
+    "year": "627 M.",
+    "revelationOrder": 90,
+    "verses": "33:1-73",
+    "event": {
+      "en": "Battle of the Trench – coalition defeated",
+      "tr": "Hendek Savaşı: 10.000 kişilik koalisyon mağlup edildi"
+    },
+    "context": {
+      "en": "Battle of the Trench – coalition defeated",
+      "tr": "Hendek Savaşı: 10.000 kişilik koalisyon mağlup edildi"
+    },
+    "coordinates": [
+      26,
+      0,
+      6
+    ],
+    "location": {
+      "name": {
+        "tr": "Hendek",
+        "en": "Trench"
+      },
+      "coords": [
+        26,
+        0,
+        6
+      ]
+    },
+    "tafsir": {
+      "tr": "Müminlerin ibadet anlayışı, İslam'da hayatı düzenleyen kurallar ele alınır.",
+      "en": "Addresses believers' understanding of worship and rules that organize life in Islam."
+    }
+  },
+  {
+    "id": 91,
+    "surahNumber": 60,
+    "surahName": {
+      "ar": "الممتحنة",
+      "en": "Al-Mumtahinah",
+      "tr": "Mümtehine"
+    },
+    "period": "Medine",
+    "year": "628 M.",
+    "revelationOrder": 91,
+    "verses": "60:1-13",
+    "event": {
+      "en": "Treaty of Hudaybiyyah – relations with disbelievers",
+      "tr": "Hudeybiye Antlaşması sürecinde müşriklerle ilişkiler"
+    },
+    "context": {
+      "en": "Treaty of Hudaybiyyah – relations with disbelievers",
+      "tr": "Hudeybiye Antlaşması sürecinde müşriklerle ilişkiler"
+    },
+    "coordinates": [
+      8,
+      0,
+      -8
+    ],
+    "location": {
+      "name": {
+        "tr": "Hudeybiye",
+        "en": "Hudaybiyyah"
+      },
+      "coords": [
+        8,
+        0,
+        -8
+      ]
+    },
+    "tafsir": {
+      "tr": "Münafıklar ve onların özelliklerini anlatır; onları Allah'a karşı uyarır.",
+      "en": "Describes the hypocrites and their characteristics; warns them against God."
+    }
+  },
+  {
+    "id": 92,
+    "surahNumber": 4,
+    "surahName": {
+      "ar": "النساء",
+      "en": "An-Nisa",
+      "tr": "Nisa"
+    },
+    "period": "Medine",
+    "year": "625-626 M.",
+    "revelationOrder": 92,
+    "verses": "4:1-176",
+    "event": {
+      "en": "Uhud aftermath – women and family laws",
+      "tr": "Uhud sonrası dul ve yetimlerin haklarını düzenleyen ayetler"
+    },
+    "context": {
+      "en": "Uhud aftermath – women and family laws",
+      "tr": "Uhud sonrası dul ve yetimlerin haklarını düzenleyen ayetler"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Birbirinizi Hakk'a ve sabra tavsiye etmeyi emreder; cemaat ruhunu güçlendirir.",
+      "en": "Commands recommending truth and patience to one another; strengthens the spirit of community."
+    }
+  },
+  {
+    "id": 93,
+    "surahNumber": 99,
+    "surahName": {
+      "ar": "الزلزلة",
+      "en": "Az-Zalzalah",
+      "tr": "Zilzal"
+    },
+    "period": "Medine",
+    "year": "626 M.",
+    "revelationOrder": 93,
+    "verses": "99:1-8",
+    "event": {
+      "en": "The Earthquake – atom's weight of good",
+      "tr": "Zerre ağırlığı amel bile hesapta; yerin titremesi"
+    },
+    "context": {
+      "en": "The Earthquake – atom's weight of good",
+      "tr": "Zerre ağırlığı amel bile hesapta; yerin titremesi"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Medine toplumunda müminlerin savaş ve barış güçlerini ele alır; cihad ve sabır emini işler.",
+      "en": "Addresses the military and peace forces of believers in Medinan society; covers jihad and patience."
+    }
+  },
+  {
+    "id": 94,
+    "surahNumber": 57,
+    "surahName": {
+      "ar": "الحديد",
+      "en": "Al-Hadid",
+      "tr": "Hadid"
+    },
+    "period": "Medine",
+    "year": "626 M.",
+    "revelationOrder": 94,
+    "verses": "57:1-29",
+    "event": {
+      "en": "Iron – spend in God's cause",
+      "tr": "Demir'in yaratılışı; Allah yolunda infak çağrısı"
+    },
+    "context": {
+      "en": "Iron – spend in God's cause",
+      "tr": "Demir'in yaratılışı; Allah yolunda infak çağrısı"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Dini terketmeye veya İslam'la çelişen iddialara karşı uyarır; münafıkları ve inançsızları ele alır.",
+      "en": "Warns against abandoning the faith or claims conflicting with Islam; addresses hypocrites and disbelievers."
+    }
+  },
+  {
+    "id": 95,
+    "surahNumber": 47,
+    "surahName": {
+      "ar": "محمد",
+      "en": "Muhammad",
+      "tr": "Muhammed"
+    },
+    "period": "Medine",
+    "year": "624 M.",
+    "revelationOrder": 95,
+    "verses": "47:1-38",
+    "event": {
+      "en": "Rules of warfare after Badr",
+      "tr": "Bedir'in ardından savaş hükümleri ve esir kanunu"
+    },
+    "context": {
+      "en": "Rules of warfare after Badr",
+      "tr": "Bedir'in ardından savaş hükümleri ve esir kanunu"
+    },
+    "coordinates": [
+      20,
+      0,
+      -6
+    ],
+    "location": {
+      "name": {
+        "tr": "Bedir",
+        "en": "Badr"
+      },
+      "coords": [
+        20,
+        0,
+        -6
+      ]
+    },
+    "tafsir": {
+      "tr": "Mümin bir kadının Allah'ın rızasını kazanmak için kocasını şikâyet etmesini anlatır; adalet ilkesini işler.",
+      "en": "Narrates a believing woman complaining to God about her husband to seek His pleasure; addresses justice."
+    }
+  },
+  {
+    "id": 96,
+    "surahNumber": 13,
+    "surahName": {
+      "ar": "الرعد",
+      "en": "Ar-Ra'd",
+      "tr": "Ra'd"
+    },
+    "period": "Medine",
+    "year": "625 M.",
+    "revelationOrder": 96,
+    "verses": "13:1-43",
+    "event": {
+      "en": "Thunder glorifies God – Quran's authenticity",
+      "tr": "Gök gürültüsü Allah'ı tesbih eder; Kuran'ın hakikat olduğunun delili"
+    },
+    "context": {
+      "en": "Thunder glorifies God – Quran's authenticity",
+      "tr": "Gök gürültüsü Allah'ı tesbih eder; Kuran'ın hakikat olduğunun delili"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Düşmanlarla bile adil davranmayı öğretir; hicret edenleri müjdeler.",
+      "en": "Teaches fair treatment even toward enemies; gives glad tidings to those who emigrate."
+    }
+  },
+  {
+    "id": 97,
+    "surahNumber": 55,
+    "surahName": {
+      "ar": "الرحمن",
+      "en": "Ar-Rahman",
+      "tr": "Rahman"
+    },
+    "period": "Medine",
+    "year": "626 M.",
+    "revelationOrder": 97,
+    "verses": "55:1-78",
+    "event": {
+      "en": "The Beneficent – which of God's favors denied?",
+      "tr": "Rahman'ın 31 kez tekrarlanan sorusu: 'Rabbinizin hangi nimetlerini yalanlarsınız?'"
+    },
+    "context": {
+      "en": "The Beneficent – which of God's favors denied?",
+      "tr": "Rahman'ın 31 kez tekrarlanan sorusu: 'Rabbinizin hangi nimetlerini yalanlarsınız?'"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Kadınların haklarını, miras ve aile hukukunu düzenleyen kapsamlı ayetler içerir.",
+      "en": "Contains comprehensive verses regulating women's rights, inheritance, and family law."
+    }
+  },
+  {
+    "id": 98,
+    "surahNumber": 76,
+    "surahName": {
+      "ar": "الإنسان",
+      "en": "Al-Insan",
+      "tr": "İnsan"
+    },
+    "period": "Medine",
+    "year": "626 M.",
+    "revelationOrder": 98,
+    "verses": "76:1-31",
+    "event": {
+      "en": "Man created – reward for feeding the poor",
+      "tr": "İnsan'ın yaratılışı; yoksulu, yetimi, esiri doyurmanın mükafatı"
+    },
+    "context": {
+      "en": "Man created – reward for feeding the poor",
+      "tr": "İnsan'ın yaratılışı; yoksulu, yetimi, esiri doyurmanın mükafatı"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "İnsanın yaratılışını ve Allah'ın nimetini hatırlatan bu sure, kıyametteki hesabı anlatır.",
+      "en": "This surah reminds of man's creation and God's blessing, and describes the reckoning on the Day of Judgment."
+    }
+  },
+  {
+    "id": 99,
+    "surahNumber": 65,
+    "surahName": {
+      "ar": "الطلاق",
+      "en": "At-Talaq",
+      "tr": "Talak"
+    },
+    "period": "Medine",
+    "year": "627 M.",
+    "revelationOrder": 99,
+    "verses": "65:1-12",
+    "event": {
+      "en": "Divorce laws – treat women with kindness",
+      "tr": "Boşanmada adalet ve kadına muamele hükümleri"
+    },
+    "context": {
+      "en": "Divorce laws – treat women with kindness",
+      "tr": "Boşanmada adalet ve kadına muamele hükümleri"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Uhud savaşını ve müminlerin bu savaştaki tutumunu, şehitliği ele alır.",
+      "en": "Addresses the Battle of Uhud, the believers' stance in that battle, and martyrdom."
+    }
+  },
+  {
+    "id": 100,
+    "surahNumber": 98,
+    "surahName": {
+      "ar": "البينة",
+      "en": "Al-Bayyinah",
+      "tr": "Beyyine"
+    },
+    "period": "Medine",
+    "year": "627 M.",
+    "revelationOrder": 100,
+    "verses": "98:1-8",
+    "event": {
+      "en": "The Clear Proof – People of the Book and pagans",
+      "tr": "Ehl-i Kitap ve müşriklere açık delil geldi"
+    },
+    "context": {
+      "en": "The Clear Proof – People of the Book and pagans",
+      "tr": "Ehl-i Kitap ve müşriklere açık delil geldi"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "İslam devletinin kural ve düzenlemelerini; müminlerin birlik ve dayanışmasını ele alır.",
+      "en": "Addresses the rules and regulations of the Islamic state; the unity and solidarity of believers."
+    }
+  },
+  {
+    "id": 101,
+    "surahNumber": 59,
+    "surahName": {
+      "ar": "الحشر",
+      "en": "Al-Hashr",
+      "tr": "Haşr"
+    },
+    "period": "Medine",
+    "year": "625 M.",
+    "revelationOrder": 101,
+    "verses": "59:1-24",
+    "event": {
+      "en": "Exile of Banu Nadir – Jewish tribe expelled",
+      "tr": "Müslümanlarla antlaşmayı bozan Beni Nadir Yahudileri Medine'den sürgün edildi"
+    },
+    "context": {
+      "en": "Exile of Banu Nadir – Jewish tribe expelled",
+      "tr": "Müslümanlarla antlaşmayı bozan Beni Nadir Yahudileri Medine'den sürgün edildi"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Enfal, Bedir savaşı ganimetlerini ve müminlerin bu süreçteki tutumunu ele alır.",
+      "en": "Al-Anfal addresses the war gains of Badr and believers' attitudes in this process."
+    }
+  },
+  {
+    "id": 102,
+    "surahNumber": 24,
+    "surahName": {
+      "ar": "النور",
+      "en": "An-Noor",
+      "tr": "Nur"
+    },
+    "period": "Medine",
+    "year": "626 M.",
+    "revelationOrder": 102,
+    "verses": "24:1-64",
+    "event": {
+      "en": "The Light – after slander of Aisha",
+      "tr": "Hz. Aişe'ye yapılan ifk iftirası üzerine indi; iffet hükümleri"
+    },
+    "context": {
+      "en": "The Light – after slander of Aisha",
+      "tr": "Hz. Aişe'ye yapılan ifk iftirası üzerine indi; iffet hükümleri"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Hendek Savaşı (Ahzab) bağlamında münafıkları eleştirir; Peygamber'in eşleriyle ilgili özel hükümler içerir.",
+      "en": "In the context of the Battle of the Trench, criticizes hypocrites; contains special rulings about the Prophet's wives."
+    }
+  },
+  {
+    "id": 103,
+    "surahNumber": 22,
+    "surahName": {
+      "ar": "الحج",
+      "en": "Al-Hajj",
+      "tr": "Hac"
+    },
+    "period": "Medine",
+    "year": "626 M.",
+    "revelationOrder": 103,
+    "verses": "22:1-78",
+    "event": {
+      "en": "The Pilgrimage – Ibrahim called to Hajj",
+      "tr": "İbrahim'in hacca çağırması; Kabe'nin kuruluşu"
+    },
+    "context": {
+      "en": "The Pilgrimage – Ibrahim called to Hajj",
+      "tr": "İbrahim'in hacca çağırması; Kabe'nin kuruluşu"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Mümin olduğunu iddia edip ihanet eden kadın veya erkeğin Allah yolunda terk edilmesini emreder.",
+      "en": "Commands abandoning women or men who claim to be believers but betray, in the way of God."
+    }
+  },
+  {
+    "id": 104,
+    "surahNumber": 63,
+    "surahName": {
+      "ar": "المنافقون",
+      "en": "Al-Munafiqoon",
+      "tr": "Münafikun"
+    },
+    "period": "Medine",
+    "year": "626 M.",
+    "revelationOrder": 104,
+    "verses": "63:1-11",
+    "event": {
+      "en": "The Hypocrites exposed in Medina",
+      "tr": "Medine'deki münafıkların maskesi düşürüldü"
+    },
+    "context": {
+      "en": "The Hypocrites exposed in Medina",
+      "tr": "Medine'deki münafıkların maskesi düşürüldü"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Medine toplumunun temel ahlak kurallarını ve İslam devletinin siyasi yapısını düzenler.",
+      "en": "Regulates the fundamental moral rules of the Medinan community and the political structure of the Islamic state."
+    }
+  },
+  {
+    "id": 105,
+    "surahNumber": 58,
+    "surahName": {
+      "ar": "المجادلة",
+      "en": "Al-Mujadila",
+      "tr": "Mücadele"
+    },
+    "period": "Medine",
+    "year": "627 M.",
+    "revelationOrder": 105,
+    "verses": "58:1-22",
+    "event": {
+      "en": "The Pleading Woman – zihar divorce",
+      "tr": "Kocasından zihar yoluyla boşanan kadının davası"
+    },
+    "context": {
+      "en": "The Pleading Woman – zihar divorce",
+      "tr": "Kocasından zihar yoluyla boşanan kadının davası"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Cuma namazının önemini anlatır; ticarete koşarak Cuma'yı terk etmeyi yasaklar.",
+      "en": "Describes the importance of Friday prayer; prohibits abandoning Friday prayer to rush to trade."
+    }
+  },
+  {
+    "id": 106,
+    "surahNumber": 49,
+    "surahName": {
+      "ar": "الحجرات",
+      "en": "Al-Hujurat",
+      "tr": "Hucurat"
+    },
+    "period": "Medine",
+    "year": "628 M.",
+    "revelationOrder": 106,
+    "verses": "49:1-18",
+    "event": {
+      "en": "Etiquette – verify news, avoid suspicion",
+      "tr": "Haber teyidi; zan ve gıybet yasağı"
+    },
+    "context": {
+      "en": "Etiquette – verify news, avoid suspicion",
+      "tr": "Haber teyidi; zan ve gıybet yasağı"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Münafıkların iç yüzünü anlatır; İslam camiasına zarar vermeye çalışan bu gruba dikkat çeker.",
+      "en": "Describes the true nature of the hypocrites; draws attention to this group trying to harm the Muslim community."
+    }
+  },
+  {
+    "id": 107,
+    "surahNumber": 66,
+    "surahName": {
+      "ar": "التحريم",
+      "en": "At-Tahrim",
+      "tr": "Tahrim"
+    },
+    "period": "Medine",
+    "year": "628 M.",
+    "revelationOrder": 107,
+    "verses": "66:1-12",
+    "event": {
+      "en": "Prophet's household – sincere repentance",
+      "tr": "Hz. Peygamberin hane hayatından ibret; samimi tövbe"
+    },
+    "context": {
+      "en": "Prophet's household – sincere repentance",
+      "tr": "Hz. Peygamberin hane hayatından ibret; samimi tövbe"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "İlahi yasakları çiğnemeyi önler; kocasına zıhar yapan kadın için kefaret kurallarını bildirir.",
+      "en": "Prevents violating divine prohibitions; announces atonement rules for the woman who has made zihar to her husband."
+    }
+  },
+  {
+    "id": 108,
+    "surahNumber": 64,
+    "surahName": {
+      "ar": "التغابون",
+      "en": "At-Taghabun",
+      "tr": "Tegabün"
+    },
+    "period": "Medine",
+    "year": "628 M.",
+    "revelationOrder": 108,
+    "verses": "64:1-18",
+    "event": {
+      "en": "Mutual Disillusion – family can be enemy",
+      "tr": "Karşılıklı aldanma günü; aile mihnetlerine karşı sabır"
+    },
+    "context": {
+      "en": "Mutual Disillusion – family can be enemy",
+      "tr": "Karşılıklı aldanma günü; aile mihnetlerine karşı sabır"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Allah yolunda hicret edenleri müjdeler ve düşmanlarla dahi adil davranmayı emreder.",
+      "en": "Gives glad tidings to those who emigrate for God's sake and commands just treatment even toward enemies."
+    }
+  },
+  {
+    "id": 109,
+    "surahNumber": 61,
+    "surahName": {
+      "ar": "الصف",
+      "en": "As-Saf",
+      "tr": "Saf"
+    },
+    "period": "Medine",
+    "year": "628 M.",
+    "revelationOrder": 109,
+    "verses": "61:1-14",
+    "event": {
+      "en": "The Ranks – fight in God's cause like a solid wall",
+      "tr": "Allah yolunda saf halinde savaş; İsa'nın Ahmed müjdesi"
+    },
+    "context": {
+      "en": "The Ranks – fight in God's cause like a solid wall",
+      "tr": "Allah yolunda saf halinde savaş; İsa'nın Ahmed müjdesi"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Müslümanların savaşta kararlı olmasını öğütler; tam bağlılık ve birliği emreder.",
+      "en": "Encourages Muslims to be steadfast in battle; commands complete devotion and unity."
+    }
+  },
+  {
+    "id": 110,
+    "surahNumber": 62,
+    "surahName": {
+      "ar": "الجمعة",
+      "en": "Al-Jumu'ah",
+      "tr": "Cuma"
+    },
+    "period": "Medine",
+    "year": "628 M.",
+    "revelationOrder": 110,
+    "verses": "62:1-11",
+    "event": {
+      "en": "Friday Prayer – congregational worship",
+      "tr": "Cuma namazının farziyeti"
+    },
+    "context": {
+      "en": "Friday Prayer – congregational worship",
+      "tr": "Cuma namazının farziyeti"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Mekke'nin fethini müjdeler; bu zaferin Allah'ın yardımıyla gerçekleştiğini bildirir.",
+      "en": "Announces the conquest of Mecca; declares this victory came with God's help."
+    }
+  },
+  {
+    "id": 111,
+    "surahNumber": 48,
+    "surahName": {
+      "ar": "الفتح",
+      "en": "Al-Fath",
+      "tr": "Fetih"
+    },
+    "period": "Medine",
+    "year": "628 M.",
+    "revelationOrder": 111,
+    "verses": "48:1-29",
+    "event": {
+      "en": "Treaty of Hudaybiyyah – manifest victory",
+      "tr": "Hudeybiye Antlaşması, açık bir fetih olarak nitelendi"
+    },
+    "context": {
+      "en": "Treaty of Hudaybiyyah – manifest victory",
+      "tr": "Hudeybiye Antlaşması, açık bir fetih olarak nitelendi"
+    },
+    "coordinates": [
+      8,
+      0,
+      -8
+    ],
+    "location": {
+      "name": {
+        "tr": "Hudeybiye",
+        "en": "Hudaybiyyah"
+      },
+      "coords": [
+        8,
+        0,
+        -8
+      ]
+    },
+    "tafsir": {
+      "tr": "Allah'ın nimetini anlatır; beş temel farzdaki (helal yiyecek dahil) hükümleri bildirir.",
+      "en": "Describes God's blessing; announces rulings in the five fundamental obligations (including lawful food)."
+    }
+  },
+  {
+    "id": 112,
+    "surahNumber": 5,
+    "surahName": {
+      "ar": "المائدة",
+      "en": "Al-Maidah",
+      "tr": "Maide"
+    },
+    "period": "Medine",
+    "year": "629-630 M.",
+    "revelationOrder": 112,
+    "verses": "5:1-120",
+    "event": {
+      "en": "The Table Spread – final rulings of Sharia",
+      "tr": "Şeriatın son hükümleri; Veda Haccı öncesi indi"
+    },
+    "context": {
+      "en": "The Table Spread – final rulings of Sharia",
+      "tr": "Şeriatın son hükümleri; Veda Haccı öncesi indi"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Mekke'nin fethinden sonra putperestlerle ilişkileri keser; İslam'ı kabul etmeyenlere süre tanır.",
+      "en": "Severs relations with polytheists after the conquest of Mecca; gives time to those who do not accept Islam."
+    }
+  },
+  {
+    "id": 113,
+    "surahNumber": 9,
+    "surahName": {
+      "ar": "التوبة",
+      "en": "At-Tawbah",
+      "tr": "Tevbe"
+    },
+    "period": "Medine",
+    "year": "630-631 M.",
+    "revelationOrder": 113,
+    "verses": "9:1-129",
+    "event": {
+      "en": "Repentance – after Conquest of Mecca",
+      "tr": "Mekke'nin Fethi sonrası müşriklerle ilişkilerin son hükmü"
+    },
+    "context": {
+      "en": "Repentance – after Conquest of Mecca",
+      "tr": "Mekke'nin Fethi sonrası müşriklerle ilişkilerin son hükmü"
+    },
+    "coordinates": [
+      0,
+      0,
+      0
+    ],
+    "location": {
+      "name": {
+        "tr": "Mekke",
+        "en": "Makkah"
+      },
+      "coords": [
+        0,
+        0,
+        0
+      ]
+    },
+    "tafsir": {
+      "tr": "Allah'ın yardımı ve fetih geldiğinde hamd edilmesini ve tövbe edilmesini emreder.",
+      "en": "Commands praising God and seeking repentance when God's help and victory arrive."
+    }
+  },
+  {
+    "id": 114,
+    "surahNumber": 110,
+    "surahName": {
+      "ar": "النصر",
+      "en": "An-Nasr",
+      "tr": "Nasr"
+    },
+    "period": "Medine",
+    "year": "631-632 M.",
+    "revelationOrder": 114,
+    "verses": "110:1-3",
+    "event": {
+      "en": "Divine Help – people enter Islam in multitudes",
+      "tr": "Veda'nın habercisi: insanlar dalga dalga İslam'a girecek"
+    },
+    "context": {
+      "en": "Divine Help – people enter Islam in multitudes",
+      "tr": "Veda'nın habercisi: insanlar dalga dalga İslam'a girecek"
+    },
+    "coordinates": [
+      28,
+      0,
+      8
+    ],
+    "location": {
+      "name": {
+        "tr": "Medine",
+        "en": "Madinah"
+      },
+      "coords": [
+        28,
+        0,
+        8
+      ]
+    },
+    "tafsir": {
+      "tr": "Veda'nın habercisi: insanlar dalga dalga İslam'a girecek",
+      "en": "Divine Help – people enter Islam in multitudes"
+    }
+  }
+]
