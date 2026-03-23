@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-route
 import { motion } from 'framer-motion';
 import { ChevronRight, Sparkles, MapPin, BookOpen } from 'lucide-react';
 import Layout from './components/layout/Layout';
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
 import { useAppStore } from './store/useAppStore';
 import quranData from './data/quranChronology.json';
 import BottomSheet from './components/ui/BottomSheet';
@@ -51,7 +51,7 @@ const PageWrapper = ({ children }: { children: React.ReactNode }) => (
 // ─── HOME ────────────────────────────────────────────────────────────────────
 const Home = () => {
   const navigate = useNavigate();
-  const { language, lastViewedNode } = useAppStore();
+  const { language, lastViewedNode, setCurrentNode } = useAppStore();
   const t = T[language];
   const lastNode = lastViewedNode ? (quranData as any[]).find(n => n.id === lastViewedNode) : null;
 
@@ -100,7 +100,7 @@ const Home = () => {
           </div>
           <p className="text-xl text-white/85 leading-relaxed italic">{t.dailyVerse}</p>
           <div className="h-px bg-white/8" />
-          <button onClick={() => navigate('/timeline')} className="flex items-center justify-between text-base text-white/55 hover:text-amber-200 transition-colors group font-medium">
+          <button onClick={() => setCurrentNode(1)} className="flex items-center justify-between text-base text-white/55 hover:text-amber-200 transition-colors group font-medium">
             {t.explore}
             <ChevronRight size={18} className="group-hover:translate-x-1 transition-transform" />
           </button>
@@ -163,14 +163,28 @@ const SurahCard = ({ node, language, t, onClick }: any) => (
 );
 
 // ─── TIMELINE ────────────────────────────────────────────────────────────────
-import { Search } from 'lucide-react';
+import { Search, ArrowUp } from 'lucide-react';
 
 const Timeline = () => {
   const { language, setCurrentNode } = useAppStore();
   const [searchTerm, setSearchTerm] = useState('');
   const [filterPeriod, setFilterPeriod] = useState<'Hepsi' | 'Mekke' | 'Medine'>('Hepsi');
+  const [showFAB, setShowFAB] = useState(false);
+  const containerRef = useRef<HTMLDivElement>(null);
   const t = T[language];
   const data = quranData as any[];
+
+  useEffect(() => {
+    const container = containerRef.current?.closest('main');
+    if (!container) return;
+    const onScroll = () => setShowFAB(container.scrollTop > 400);
+    container.addEventListener('scroll', onScroll, { passive: true });
+    return () => container.removeEventListener('scroll', onScroll);
+  }, []);
+
+  const scrollToTop = () => {
+    containerRef.current?.closest('main')?.scrollTo({ top: 0, behavior: 'smooth' });
+  };
 
   // Filter data based on search term and period filter
   const filteredData = useMemo(() => {
@@ -199,7 +213,7 @@ const Timeline = () => {
 
   return (
     <PageWrapper>
-      <div className="px-4 md:px-0 py-4">
+      <div ref={containerRef} className="px-4 md:px-0 py-4">
         <header className="mb-8 flex flex-col md:flex-row md:items-end justify-between gap-6">
           <div>
             <h2 className="text-4xl font-light text-white">{t.timelineTitle}</h2>
@@ -288,6 +302,20 @@ const Timeline = () => {
             );
           })
         )}
+
+        {/* Scroll to Top FAB */}
+        {showFAB && (
+          <motion.button
+            initial={{ opacity: 0, scale: 0.8 }}
+            animate={{ opacity: 1, scale: 1 }}
+            exit={{ opacity: 0, scale: 0.8 }}
+            onClick={scrollToTop}
+            className="fixed bottom-24 right-5 md:bottom-8 md:right-8 z-50 w-12 h-12 rounded-full bg-amber-200/15 border border-amber-200/30 text-amber-200 flex items-center justify-center shadow-xl backdrop-blur-xl hover:bg-amber-200/25 transition-all"
+            aria-label="Yukarı çık"
+          >
+            <ArrowUp size={20} />
+          </motion.button>
+        )}
       </div>
     </PageWrapper>
   );
@@ -304,12 +332,26 @@ const MapView = () => {
 
 // ─── SETTINGS ────────────────────────────────────────────────────────────────
 const SettingsView = () => {
-  const { language, toggleLanguage } = useAppStore();
+  const { language, toggleLanguage, largeText, toggleLargeText, resetUserData } = useAppStore();
   const t = T[language];
+  const [resetConfirm, setResetConfirm] = useState(false);
+
+  const handleReset = () => {
+    if (resetConfirm) {
+      resetUserData();
+      setResetConfirm(false);
+    } else {
+      setResetConfirm(true);
+      setTimeout(() => setResetConfirm(false), 3000);
+    }
+  };
+
   return (
     <PageWrapper>
-      <div className="px-4 md:px-0 py-4">
-        <h2 className="text-4xl font-light text-white mb-8">{t.settingsTitle}</h2>
+      <div className="px-4 md:px-0 py-4 flex flex-col gap-4">
+        <h2 className="text-4xl font-light text-white mb-4">{t.settingsTitle}</h2>
+
+        {/* Language */}
         <div className="glass-card p-6 flex items-center justify-between">
           <div>
             <p className="text-white font-bold text-xl">Dil / Language</p>
@@ -320,6 +362,40 @@ const SettingsView = () => {
             {language === 'TR' ? 'EN' : 'TR'}
           </button>
         </div>
+
+        {/* Large Text */}
+        <div className="glass-card p-6 flex items-center justify-between">
+          <div>
+            <p className="text-white font-bold text-xl">{language === 'TR' ? 'Büyük Yazı' : 'Large Text'}</p>
+            <p className="text-white/45 text-base mt-1">{language === 'TR' ? 'Metni büyütür' : 'Increases text size'}</p>
+          </div>
+          <button
+            onClick={toggleLargeText}
+            className={`relative w-14 h-7 rounded-full border transition-all ${largeText ? 'bg-amber-200/20 border-amber-200/40' : 'bg-white/5 border-white/15'}`}
+          >
+            <span className={`absolute top-0.5 w-6 h-6 rounded-full transition-all ${largeText ? 'left-7 bg-amber-200' : 'left-0.5 bg-white/30'}`} />
+          </button>
+        </div>
+
+        {/* Reset Data */}
+        <div className="glass-card p-6 flex items-center justify-between">
+          <div>
+            <p className="text-white font-bold text-xl">{language === 'TR' ? 'Veriyi Sıfırla' : 'Reset Data'}</p>
+            <p className="text-white/45 text-base mt-1">{language === 'TR' ? 'İlerlemeyi temizler' : 'Clears your progress'}</p>
+          </div>
+          <button
+            onClick={handleReset}
+            className={`px-5 py-2.5 rounded-xl border text-sm font-bold transition-all ${resetConfirm ? 'bg-red-500/20 border-red-400/40 text-red-400' : 'bg-white/5 border-white/10 text-white/50 hover:border-red-400/30 hover:text-red-300'}`}
+          >
+            {resetConfirm ? (language === 'TR' ? 'Emin misin?' : 'Are you sure?') : (language === 'TR' ? 'Sıfırla' : 'Reset')}
+          </button>
+        </div>
+
+        {/* Version */}
+        <div className="text-center text-white/20 text-sm pt-4">
+          <p>Vahiy Yolculuğu · v1.0.0</p>
+          <p className="text-xs mt-1">{language === 'TR' ? '114 Sure · Kronolojik Nüzul Sırası' : '114 Surahs · Chronological Revelation Order'}</p>
+        </div>
       </div>
     </PageWrapper>
   );
@@ -327,7 +403,11 @@ const SettingsView = () => {
 
 // ─── APP ─────────────────────────────────────────────────────────────────────
 const AppContent = () => {
-  const { currentNode, setCurrentNode } = useAppStore();
+  const { currentNode, setCurrentNode, largeText } = useAppStore();
+
+  useEffect(() => {
+    document.documentElement.setAttribute('data-large-text', largeText ? 'true' : 'false');
+  }, [largeText]);
   const selectedVerse = (quranData as any[]).find(v => v.id === currentNode) ?? null;
 
   return (

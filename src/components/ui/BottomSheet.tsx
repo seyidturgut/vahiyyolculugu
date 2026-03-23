@@ -1,8 +1,9 @@
 import React, { Suspense } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, Calendar, MapPin, BookOpen, Zap, ScrollText, ArrowLeft } from 'lucide-react';
+import { X, Calendar, MapPin, BookOpen, Zap, ScrollText, ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
 import { useAppStore } from '../../store/useAppStore';
 import LaserFlow from './LaserFlow';
+import quranData from '../../data/quranChronology.json';
 
 const Section = ({ icon: Icon, label, children, color = 'text-amber-200/70' }: any) => (
     <div className="flex flex-col gap-2">
@@ -15,12 +16,17 @@ const Section = ({ icon: Icon, label, children, color = 'text-amber-200/70' }: a
 );
 
 const BottomSheet: React.FC<{ data: any; onClose: () => void }> = ({ data, onClose }) => {
-    const { language } = useAppStore();
+    const { language, setCurrentNode } = useAppStore();
     const lang = language.toLowerCase() as 'en' | 'tr';
 
     const locationName = data?.location?.name?.[lang] || data?.period || '';
     const period = data?.period || 'Mekke';
     const laserColor = period === 'Mekke' ? '#fb923c' : '#34d399';
+
+    const allSurahs = quranData as any[];
+    const currentOrder = data?.revelationOrder;
+    const prevSurah = allSurahs.find(s => s.revelationOrder === currentOrder - 1);
+    const nextSurah = allSurahs.find(s => s.revelationOrder === currentOrder + 1);
 
     return (
         <AnimatePresence>
@@ -168,8 +174,31 @@ const BottomSheet: React.FC<{ data: any; onClose: () => void }> = ({ data, onClo
                                     </p>
                                 </Section>
 
+                                {/* Prev / Next Navigation */}
+                                <div className="flex items-center gap-3 pt-2">
+                                    <button
+                                        onClick={() => prevSurah && setCurrentNode(prevSurah.id)}
+                                        disabled={!prevSurah}
+                                        className="flex-1 flex items-center justify-center gap-2 py-3.5 rounded-2xl bg-white/5 border border-white/10 text-white/60 disabled:opacity-25 hover:bg-white/10 hover:text-white transition-all text-sm font-bold"
+                                    >
+                                        <ChevronLeft size={16} />
+                                        {language === 'TR' ? 'Önceki' : 'Previous'}
+                                    </button>
+                                    <div className="text-center text-white/20 text-xs font-bold tabular-nums px-2 shrink-0">
+                                        {currentOrder} / 114
+                                    </div>
+                                    <button
+                                        onClick={() => nextSurah && setCurrentNode(nextSurah.id)}
+                                        disabled={!nextSurah}
+                                        className="flex-1 flex items-center justify-center gap-2 py-3.5 rounded-2xl bg-white/5 border border-white/10 text-white/60 disabled:opacity-25 hover:bg-white/10 hover:text-white transition-all text-sm font-bold"
+                                    >
+                                        {language === 'TR' ? 'Sonraki' : 'Next'}
+                                        <ChevronRight size={16} />
+                                    </button>
+                                </div>
+
                                 {/* Extra padding for mobile bottom */}
-                                <div className="h-12 md:hidden" />
+                                <div className="h-6 md:hidden" />
                             </div>
                         </div>
                     </motion.div>

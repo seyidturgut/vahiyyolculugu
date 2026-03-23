@@ -18,10 +18,13 @@ interface AppState {
     badges: Badge[];
     unlockedNodes: number[];
     isAppLoading: boolean;
+    largeText: boolean;
     toggleLanguage: () => void;
     setLanguage: (lang: 'TR' | 'EN') => void;
     setCurrentNode: (id: number) => void;
     setAppLoading: (loading: boolean) => void;
+    toggleLargeText: () => void;
+    resetUserData: () => void;
 }
 
 export const useAppStore = create<AppState>()(
@@ -35,6 +38,7 @@ export const useAppStore = create<AppState>()(
             badges: [],
             unlockedNodes: [],
             isAppLoading: true,
+            largeText: false,
 
             toggleLanguage: () =>
                 set((state) => ({ language: state.language === 'TR' ? 'EN' : 'TR' })),
@@ -45,6 +49,10 @@ export const useAppStore = create<AppState>()(
                 set({ currentNode: id, lastViewedNode: id > 0 ? id : undefined as any }),
 
             setAppLoading: (loading) => set({ isAppLoading: loading }),
+
+            toggleLargeText: () => set((state) => ({ largeText: !state.largeText })),
+
+            resetUserData: () => set({ lastViewedNode: 0, currentNode: 0 }),
         }),
         {
             name: 'vahiy-yolculugu',
@@ -55,6 +63,7 @@ export const useAppStore = create<AppState>()(
                 streak: state.streak,
                 badges: state.badges,
                 unlockedNodes: state.unlockedNodes,
+                largeText: state.largeText,
             }),
         } as any
     )

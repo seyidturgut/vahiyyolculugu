@@ -13,6 +13,10 @@
     scroll-behavior: smooth;
   }
 
+  html[data-large-text="true"] {
+    font-size: 112%;
+  }
+
   body {
     @apply bg-[#0A0D12] text-white overflow-hidden antialiased;
     touch-action: pan-y;
