@@ -1,9 +1,10 @@
 import React, { Suspense } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, Calendar, MapPin, BookOpen, Zap, ScrollText, ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
+import { X, Calendar, MapPin, BookOpen, Zap, ScrollText, ArrowLeft, ChevronLeft, ChevronRight, ExternalLink, AlertTriangle } from 'lucide-react';
 import { useAppStore } from '../../store/useAppStore';
 import LaserFlow from './LaserFlow';
 import quranData from '../../data/quranChronology.json';
+import type { SurahSource } from '../../types/surah';
 
 const Section = ({ icon: Icon, label, children, color = 'text-amber-200/70' }: any) => (
     <div className="flex flex-col gap-2">
@@ -14,6 +15,45 @@ const Section = ({ icon: Icon, label, children, color = 'text-amber-200/70' }: a
         <div className="pl-5">{children}</div>
     </div>
 );
+
+const SourceAttribution: React.FC<{
+    source: SurahSource;
+    verified: boolean;
+    language: 'TR' | 'EN';
+}> = ({ source, verified, language }) => {
+    const label = language === 'TR' ? 'Kaynak' : 'Source';
+    const pendingLabel = language === 'TR'
+        ? 'Doğrulanmamış — Diyanet kaynağıyla güncelleniyor'
+        : 'Unverified — being updated with Diyanet source';
+
+    if (!verified) {
+        return (
+            <div className="mt-2 flex items-center gap-1.5 text-[11px] font-medium text-amber-300/60">
+                <AlertTriangle size={11} />
+                <span>{pendingLabel}</span>
+            </div>
+        );
+    }
+
+    return (
+        <div className="mt-2 text-[11px] text-white/40">
+            <span className="font-semibold">{label}:</span>{' '}
+            {source.url ? (
+                <a
+                    href={source.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-0.5 text-white/60 hover:text-amber-200/80 transition-colors underline underline-offset-2"
+                >
+                    {source.name}
+                    <ExternalLink size={10} />
+                </a>
+            ) : (
+                <span className="text-white/60">{source.name}</span>
+            )}
+        </div>
+    );
+};
 
 const BottomSheet: React.FC<{ data: any; onClose: () => void }> = ({ data, onClose }) => {
     const { language, setCurrentNode } = useAppStore();
@@ -163,15 +203,37 @@ const BottomSheet: React.FC<{ data: any; onClose: () => void }> = ({ data, onClo
                                 {/* 3. Özet Tefsir */}
                                 <Section icon={ScrollText} label={language === 'TR' ? '3. Sureyi Anlat (Tefsir)' : '3. Summary (Tafsir)'} color="text-blue-300/80">
                                     <p className="text-lg text-white/85 leading-relaxed">
-                                        {data.tafsir?.[lang] || data.context?.[lang] || '—'}
+                                        {data.tafsir?.text?.[lang] || data.context?.[lang] || '—'}
                                     </p>
+                                    {data.tafsir?.source && (
+                                        <SourceAttribution
+                                            source={data.tafsir.source}
+                                            verified={!!data.tafsir.verified}
+                                            language={language}
+                                        />
+                                    )}
                                 </Section>
 
                                 {/* 4. Hangi Olay */}
-                                <Section icon={Zap} label={language === 'TR' ? '4. İniş Sebebi' : '4. Occasion of Revelation'} color="text-emerald-300/80">
+                                <Section
+                                    icon={Zap}
+                                    label={
+                                        data.event?.kind === 'asbab'
+                                            ? (language === 'TR' ? '4. İniş Sebebi' : '4. Occasion of Revelation')
+                                            : (language === 'TR' ? '4. Genel Nüzul Bağlamı' : '4. General Context of Revelation')
+                                    }
+                                    color="text-emerald-300/80"
+                                >
                                     <p className="text-lg text-white/85 leading-relaxed">
-                                        {data.event?.[lang] || '—'}
+                                        {data.event?.text?.[lang] || '—'}
                                     </p>
+                                    {data.event?.source && (
+                                        <SourceAttribution
+                                            source={data.event.source}
+                                            verified={!!data.event.verified}
+                                            language={language}
+                                        />
+                                    )}
                                 </Section>
 
                                 {/* Prev / Next Navigation */}
